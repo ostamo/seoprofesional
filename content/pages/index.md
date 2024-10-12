@@ -156,7 +156,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Gestión de Redes Sociales
-        subtitle: Faster
+        subtitle: Presencia Digital en Redes Sociales
         text: >+
           Ayudamos a tener una presencia sólida en redes sociales como Facebook,
           Instagram, LinkedIn, y más. Ofrecemos creación de contenidos
