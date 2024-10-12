@@ -727,8 +727,31 @@ sections:
       - title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Sabemos que cada negocio es único, por eso ofrecemos soluciones
+          personalizadas que se ajustan a tus metas y presupuesto. Nos enfocamos
+          en crear experiencias digitales que no solo atraen visitas, sino que
+          también generan resultados medibles, aumentando tus conversiones y
+          visibilidad en el mercado.
+
+
+          *   **Experiencia y profesionalismo:** Contamos con un equipo experto
+          en desarrollo web y SEO.
+
+
+          *   **Estrategias personalizadas:** Nos adaptamos a las necesidades
+          específicas de tu negocio.
+
+
+          *   **Resultados comprobados:** Garantizamos el aumento de tráfico y
+          visibilidad de tu sitio.
+
+
+          *   **Soporte continuo:** Te acompañamos en cada etapa del proceso y
+          te brindamos soporte post-lanzamiento.
+
+
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
