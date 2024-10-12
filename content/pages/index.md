@@ -408,9 +408,26 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Muchos clientes necesitan soporte continuo para mantener su sitio web
+      actualizado y seguro. Ofrece un servicio de mantenimiento regular que
+      incluya actualizaciones de plugins, revisión de seguridad y pequeñas
+      mejoras o cambios en el diseño.
+
+
+      *   Actualización de contenidos
+
+
+      *   Corrección de errores y bugs
+
+
+      *   Monitorización y backups de seguridad
+
+
+      *   Mejora de rendimiento y optimización técnica continua
+
+
+
     actions:
       - label: Get started
         url: /
