@@ -516,13 +516,7 @@ sections:
     title: null
     subtitle: Email Marketing
     items:
-      - title: >-
-          Ayuda a tus clientes a conectar con su audiencia a través de
-          estrategias de email marketing, una herramienta poderosa para
-          fidelizar clientes y aumentar las ventas.Diseño y automatización de
-          campañas de email marketingSegmentación de listas de
-          suscriptoresCreación de contenido para boletines y campañasAnálisis de
-          resultados y optimización
+      - title: ''
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
