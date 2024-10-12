@@ -442,7 +442,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/crecer-web.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
