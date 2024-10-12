@@ -16,7 +16,7 @@ sections:
       digitales, ofreciendo soluciones a medida que se adaptan a sus necesidades
       y mercado.
     actions:
-      - label: Llama ahora
+      - label: ¡Llama ahora!
         altText: ''
         url: 'tel:322-957-6512'
         showIcon: false
