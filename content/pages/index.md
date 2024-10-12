@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Diseño y Desarrollo Web
-        subtitle: Numbers Done
+        subtitle: Webs Para toda Necesidad
         text: >+
           Creamos páginas web personalizadas, adaptadas a la identidad de tu
           marca y orientadas a la conversión. Nos aseguramos de que cada sitio
