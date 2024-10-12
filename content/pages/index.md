@@ -7,7 +7,7 @@ sections:
       text: Transformamos tu presencia digital con diseño web y SEO efectivo
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: SEO-profesional perfecto para tu sitios web
     text: >
       En SEO-profesional, nos especializamos en crear páginas web de alto
       impacto y en implementar estrategias de posicionamiento SEO que harán que
