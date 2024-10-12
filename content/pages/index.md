@@ -725,7 +725,7 @@ sections:
     subtitle: ¡Trabajemos juntos!
     items:
       - title: Soluciones Personalizadas
-        tagline: This is the tagline
+        tagline: Resultados Medibles
         subtitle: This is the item subtitle
         text: >+
           Sabemos que cada negocio es único, por eso ofrecemos soluciones
