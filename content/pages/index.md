@@ -407,7 +407,7 @@ sections:
       text: Mantenimiento y Actualización Web
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Mantenimiento Continuo
     text: >+
       Si necesitas soporte continuo para mantener su sitio web actualizado y
       seguro. Ofrecemos un servicio de mantenimiento regular que incluye
