@@ -228,7 +228,7 @@ sections:
   - subtitle: Empresas que Confían en Nosotros
     images:
       - url: /images/logo_75.png
-        altText: Empathy logo
+        altText: Plomeros Destape
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
