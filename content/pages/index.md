@@ -42,7 +42,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Bienvenido a SEOprofesional
+      label: Bienvenido a SEO-profesional
       color: text-primary
       type: Badge
     elementId: ''
