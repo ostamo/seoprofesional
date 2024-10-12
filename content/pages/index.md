@@ -457,7 +457,7 @@ sections:
       text: Diseño Gráfico y Branding
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Identidad Digital
     text: >+
       El diseño visual es clave para la identidad digital. ofrecemos servicios
       de creación de logotipos, diseño de material gráfico (tarjetas de
