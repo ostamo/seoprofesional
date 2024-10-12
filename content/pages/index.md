@@ -458,9 +458,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      El diseño visual es clave para la identidad digital. Puedes ofrecer
+      servicios de creación de logotipos, diseño de material gráfico (tarjetas
+      de presentación, banners, etc.) y todo lo relacionado con el branding
+      digital.
+
+
+      *   Creación de identidad visual de marca (logotipos, paleta de colores,
+      tipografía)
+
+
+      *   Diseño de banners, infografías, y elementos visuales
+
+
+      *   Material gráfico para campañas publicitarias o redes sociales
+
     actions:
       - label: Get started
         url: /
