@@ -726,7 +726,7 @@ sections:
     items:
       - title: Soluciones Personalizadas
         tagline: Resultados Medibles
-        subtitle: This is the item subtitle
+        subtitle: Aumento de las Experiencias Digitales
         text: >+
           Sabemos que cada negocio es único, por eso ofrecemos soluciones
           personalizadas que se ajustan a tus metas y presupuesto. Nos enfocamos
