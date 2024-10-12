@@ -777,7 +777,7 @@ sections:
         type: FeaturedItem
       - title: Estrategias personalizadas
         tagline: Resultados comprobados
-        subtitle: This is the item subtitle
+        subtitle: Soporte continuo
         text: |+
 
           Nos adaptamos a las necesidades específicas de tu negocio.
