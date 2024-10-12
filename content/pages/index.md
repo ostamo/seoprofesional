@@ -8,10 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      En SEO-profesional, nos especializamos en crear páginas web de alto
+      impacto y en implementar estrategias de posicionamiento SEO que harán que
+      tu negocio destaque en Internet. Con más de varios años de experiencia en
+      el sector, ayudamos a empresas y emprendedores a alcanzar sus objetivos
+      digitales, ofreciendo soluciones a medida que se adaptan a sus necesidades
+      y mercado.
+
     actions:
       - label: Get started
         altText: ''
