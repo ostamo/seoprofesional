@@ -320,7 +320,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Beneficios Clave
       color: text-primary
       styles:
         self:
