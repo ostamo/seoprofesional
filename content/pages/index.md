@@ -230,6 +230,7 @@ sections:
       - url: /images/logo_75.png
         altText: Plomeros Destape
         type: ImageBlock
+        elementId: 'https://plomerosdestape.com.co/'
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
