@@ -735,7 +735,7 @@ sections:
           también generan resultados medibles, aumentando tus conversiones y
           visibilidad en el mercado.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/soluciones-personalizadas.jpg
           altText: Placeholder Image
           styles:
             self:
