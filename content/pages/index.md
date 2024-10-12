@@ -327,7 +327,6 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/diseno-web-moderno.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
