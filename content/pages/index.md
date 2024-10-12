@@ -755,7 +755,8 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+
+          Contamos con un equipo experto en desarrollo web y SEO.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
