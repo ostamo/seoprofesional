@@ -454,7 +454,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Diseño Gráfico y Branding
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
