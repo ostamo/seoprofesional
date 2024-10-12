@@ -409,10 +409,10 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >+
-      Muchos clientes necesitan soporte continuo para mantener su sitio web
-      actualizado y seguro. Ofrece un servicio de mantenimiento regular que
-      incluya actualizaciones de plugins, revisión de seguridad y pequeñas
-      mejoras o cambios en el diseño.
+      Si necesitas soporte continuo para mantener su sitio web actualizado y
+      seguro. Ofrecemos un servicio de mantenimiento regular que incluye
+      actualizaciones de plugins, revisión de seguridad y pequeñas mejoras o
+      cambios en el diseño.
 
 
       *   Actualización de contenidos
@@ -425,8 +425,6 @@ sections:
 
 
       *   Mejora de rendimiento y optimización técnica continua
-
-
 
     actions:
       - label: Get started
