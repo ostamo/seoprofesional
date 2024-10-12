@@ -517,8 +517,12 @@ sections:
     subtitle: Email Marketing
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          Ayuda a tus clientes a conectar con su audiencia a través de
+          estrategias de email marketing, una herramienta poderosa para
+          fidelizar clientes y aumentar las ventas.Diseño y automatización de
+          campañas de email marketingSegmentación de listas de
+          suscriptoresCreación de contenido para boletines y campañasAnálisis de
+          resultados y optimización
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
