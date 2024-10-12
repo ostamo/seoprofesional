@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ¡Empieza tu Empresa ya!
     items:
       - type: FeaturedItem
         title: Diseño y Desarrollo Web
