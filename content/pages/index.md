@@ -112,10 +112,30 @@ sections:
               borderRadius: x-large
       - title: Posicionamiento SEO
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          No basta con tener un sitio web bonito; también debe ser visible para
+          tu audiencia. Implementamos estrategias SEO avanzadas para posicionar
+          tu sitio en los primeros resultados de Google. Desde la optimización
+          técnica hasta la creación de contenido relevante, nos encargamos de
+          que tu página sea encontrada por los clientes que más te interesan.
+
+
+          *   Análisis de palabras clave y competencia
+
+
+          *   Optimización On-page (metaetiquetas, URL, estructura)
+
+
+          *   Estrategias de contenido SEO
+
+
+          *   Link building y SEO Off-page
+
+
+          *   Auditorías SEO técnicas
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
