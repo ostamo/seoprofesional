@@ -332,6 +332,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/internet-rapido.jpg
   - type: GenericSection
     title:
       text: Auditorías Web y Consultoría de UX/UI
