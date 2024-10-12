@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'tel:322-957-6512'
         showIcon: false
         icon: arrowRight
         iconPosition: right
