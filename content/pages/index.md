@@ -111,7 +111,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Posicionamiento SEO
-        subtitle: The Job Stuff
+        subtitle: Aparecer en las Primeras Posiciones de Google y Bing
         text: >+
           No basta con tener un sitio web bonito; también debe ser visible para
           tu audiencia. Implementamos estrategias SEO avanzadas para posicionar
