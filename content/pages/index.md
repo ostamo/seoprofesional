@@ -518,7 +518,7 @@ sections:
     items:
       - title: ''
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Estrátegias de Ventas
         text: >+
           Ayudamos a los clientes a conectar con su audiencia a través de
           estrategias de email marketing, una herramienta poderosa para
