@@ -137,7 +137,7 @@ sections:
 
 
         image:
-          url: /images/icon2.svg
+          url: /images/posicionamiento-web.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
