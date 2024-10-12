@@ -784,7 +784,7 @@ sections:
           Nos adaptamos a las necesidades específicas de tu negocio.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/estrategias-personalizadas.jpg
           altText: Placeholder image
           styles:
             self:
