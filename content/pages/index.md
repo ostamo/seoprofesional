@@ -716,7 +716,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: ¿Por qué elegirnos?
       color: text-primary
       styles:
         self:
