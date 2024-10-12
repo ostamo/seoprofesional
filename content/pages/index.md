@@ -427,7 +427,7 @@ sections:
       *   Mejora de rendimiento y optimización técnica continua
 
     actions:
-      - label: Get started
+      - label: Contáctanos
         url: /
         icon: arrowRight
         iconPosition: right
