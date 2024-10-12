@@ -519,13 +519,23 @@ sections:
       - title: ''
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >
+        text: >+
           Ayudamos a los clientes a conectar con su audiencia a través de
           estrategias de email marketing, una herramienta poderosa para
-          fidelizar clientes y aumentar las ventas. Diseño y automatización de
-          campañas de email marketing. Segmentación de listas de suscriptores.
-          Creación de contenido para boletines y campañas. Análisis de
-          resultados y optimización
+          fidelizar clientes y aumentar las ventas.
+
+
+          *   Diseño y automatización de campañas de email marketing.
+
+
+          *   Segmentación de listas de suscriptores.
+
+
+          *   Creación de contenido para boletines y campañas.
+
+
+          *   Análisis de resultados y optimización
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
