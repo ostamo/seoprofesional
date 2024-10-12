@@ -752,7 +752,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Experiencia y profesionalismo
-        tagline: Técnicas Avanzadas y Éxitosas
+        tagline: Técnicas Avanzadas y Exitosas
         subtitle: This is the item subtitle
         text: |
 
