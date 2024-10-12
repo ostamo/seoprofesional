@@ -776,7 +776,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Estrategias personalizadas
-        tagline: This is the tagline
+        tagline: Resultados comprobados
         subtitle: This is the item subtitle
         text: |+
 
