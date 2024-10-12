@@ -517,7 +517,7 @@ sections:
     subtitle: Email Marketing
     items:
       - title: ''
-        tagline: Testimonial 1
+        tagline: Herramientas de Fidelización
         subtitle: Estrategias de Ventas
         text: >+
           Ayudamos a los clientes a conectar con su audiencia a través de
