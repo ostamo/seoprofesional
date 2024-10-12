@@ -294,10 +294,9 @@ sections:
       type: TitleBlock
     subtitle: Publicidad en Google Ads (SEM)
     text: >+
-      ![](/images/diseno-web-moderno.jpg)El SEO lleva tiempo, pero con campañas
-      bien optimizadas en Google Ads, puedes obtener resultados inmediatos.
-      Ofrecemos gestión y optimización de campañas para aumentar el tráfico y
-      las conversiones.
+      El SEO lleva tiempo, pero con campañas bien optimizadas en Google Ads,
+      puedes obtener resultados inmediatos. Ofrecemos gestión y optimización de
+      campañas para aumentar el tráfico y las conversiones.
 
 
       *   Configuración y optimización de campañas de Google Ads
