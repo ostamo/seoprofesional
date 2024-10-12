@@ -227,7 +227,7 @@ sections:
         textAlign: center
   - subtitle: Empresas que Confían en Nosotros
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/logo_75.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
