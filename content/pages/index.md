@@ -179,7 +179,7 @@ sections:
 
 
         image:
-          url: /images/icon3.svg
+          url: /images/redes-sociales.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
