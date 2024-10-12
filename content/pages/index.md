@@ -724,7 +724,7 @@ sections:
       type: TitleBlock
     subtitle: ¡Trabajemos juntos!
     items:
-      - title: Feature Item One
+      - title: Soluciones Personalizadas
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >+
