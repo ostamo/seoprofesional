@@ -157,10 +157,27 @@ sections:
         type: FeaturedItem
       - title: Gestión de Redes Sociales
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Ayudamos a tener una presencia sólida en redes sociales como Facebook,
+          Instagram, LinkedIn, y más. Ofrecemos creación de contenidos
+          atractivos y estrategias de crecimiento para aumentar el engagement y
+          la visibilidad de la marca.
+
+
+          *   Creación y gestión de perfiles en redes sociales
+
+
+          *   Planificación de contenido y campañas
+
+
+          *   Diseño gráfico para redes sociales
+
+
+          *   Estrategias de publicidad en redes sociales (Facebook Ads,
+          Instagram Ads)
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
