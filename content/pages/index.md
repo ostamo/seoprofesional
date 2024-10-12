@@ -67,10 +67,27 @@ sections:
       - type: FeaturedItem
         title: Diseño y Desarrollo Web
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Creamos páginas web personalizadas, adaptadas a la identidad de tu
+          marca y orientadas a la conversión. Nos aseguramos de que cada sitio
+          sea visualmente atractivo, fácil de navegar y 100% optimizado para
+          dispositivos móviles. Ya sea que necesites un sitio corporativo, un
+          e-commerce o un blog profesional, tenemos la solución perfecta.
+
+
+          *   Diseño responsive y optimizado para móviles
+
+
+          *   Integración con plataformas de comercio electrónico
+
+
+          *   Sitios web seguros, rápidos y amigables con el usuario
+
+
+          *   Optimización técnica para mejorar la velocidad de carga
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
