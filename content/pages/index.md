@@ -356,7 +356,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Análisis Precisos
     text: >+
       Ofrecemos servicios de revisión y análisis de sitios web desde el punto de
       vista de la experiencia de usuario (UX) y la interfaz de usuario (UI).
