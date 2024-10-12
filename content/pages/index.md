@@ -433,6 +433,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: 322 957 6512
       - label: See Tutorials
         url: /
         showIcon: true
