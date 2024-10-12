@@ -519,10 +519,13 @@ sections:
       - title: ''
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Ayuda a tus clientes a conectar con su audiencia a través de
+          estrategias de email marketing, una herramienta poderosa para
+          fidelizar clientes y aumentar las ventas.Diseño y automatización de
+          campañas de email marketingSegmentación de listas de
+          suscriptoresCreación de contenido para boletines y campañasAnálisis de
+          resultados y optimización
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
