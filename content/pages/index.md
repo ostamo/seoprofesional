@@ -490,7 +490,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/concepto-de-diseño-web.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
