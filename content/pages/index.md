@@ -538,7 +538,7 @@ sections:
           *   Análisis de resultados y optimización
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/email-marketing.jpg
           altText: Maria Walters
           styles:
             self:
