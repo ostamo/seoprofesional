@@ -817,7 +817,7 @@ sections:
       text: Haz tu Cotización
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ¡Empieza Ahora!
     text: >+
 
       ¿Listo para llevar tu negocio al siguiente nivel? Contáctanos hoy para una
