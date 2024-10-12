@@ -753,7 +753,7 @@ sections:
         type: FeaturedItem
       - title: Experiencia y profesionalismo
         tagline: Técnicas Avanzadas y Exitosas
-        subtitle: Asesoramiento Personalizado
+        subtitle: Asesoramiento Permanente
         text: |
 
           Contamos con un equipo experto en desarrollo web y SEO.
