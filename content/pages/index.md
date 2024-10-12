@@ -518,7 +518,7 @@ sections:
     items:
       - title: ''
         tagline: Testimonial 1
-        subtitle: Estrátegias de Ventas
+        subtitle: Estrategias de Ventas
         text: >+
           Ayudamos a los clientes a conectar con su audiencia a través de
           estrategias de email marketing, una herramienta poderosa para
