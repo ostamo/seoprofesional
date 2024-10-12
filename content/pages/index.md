@@ -759,7 +759,7 @@ sections:
 
           Contamos con un equipo experto en desarrollo web y SEO.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/experiencia-profesionalismo.jpg
           altText: Placeholder image
           styles:
             self:
