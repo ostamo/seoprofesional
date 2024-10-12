@@ -17,7 +17,7 @@ sections:
       y mercado.
     actions:
       - label: ¡Llama ahora!
-        altText: ''
+        altText: Mejora tu Web
         url: 'tel:322-957-6512'
         showIcon: false
         icon: arrowRight
