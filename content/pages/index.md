@@ -459,9 +459,9 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >+
-      El diseño visual es clave para la identidad digital. Puedes ofrecer
-      servicios de creación de logotipos, diseño de material gráfico (tarjetas
-      de presentación, banners, etc.) y todo lo relacionado con el branding
+      El diseño visual es clave para la identidad digital. ofrecemos servicios
+      de creación de logotipos, diseño de material gráfico (tarjetas de
+      presentación, banners, etc.) y todo lo relacionado con el branding
       digital.
 
 
