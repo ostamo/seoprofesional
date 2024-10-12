@@ -4,25 +4,28 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Transformamos tu presencia digital con diseño web y SEO efectivo
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: SEO-profesional perfecto para tu sitios web
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      En SEO-profesional, nos especializamos en crear páginas web de alto
+      impacto y en implementar estrategias de posicionamiento SEO que harán que
+      tu negocio destaque en Internet. Con varios años de experiencia en el
+      sector, ayudamos a empresas y emprendedores a alcanzar sus objetivos
+      digitales, ofreciendo soluciones a medida que se adaptan a sus necesidades
+      y mercado.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
+      - label: ¡Llama ahora!
+        altText: Mejora tu Web
+        url: 'tel:322-957-6512'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: ''
         altText: ''
         url: /
         showIcon: true
@@ -32,12 +35,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/diseno-web.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Bienvenido a SEO-profesional
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +56,38 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Nuestros Servicios
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ¡Empieza tu Empresa ya!
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Diseño y Desarrollo Web
+        subtitle: ¡Webs Para toda Necesidad!
+        text: >+
+          Creamos páginas web personalizadas, adaptadas a la identidad de tu
+          marca y orientadas a la conversión. Nos aseguramos de que cada sitio
+          sea visualmente atractivo, fácil de navegar y 100% optimizado para
+          dispositivos móviles. Ya sea que necesites un sitio corporativo, un
+          e-commerce o un blog profesional, tenemos la solución perfecta.
+
+
+          *   Diseño responsive y optimizado para móviles
+
+
+          *   Integración con plataformas de comercio electrónico
+
+
+          *   Sitios web seguros, rápidos y amigables con el usuario
+
+
+          *   Optimización técnica para mejorar la velocidad de carga
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -86,18 +106,38 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/diseno-sitio_web.jpg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Posicionamiento SEO
+        subtitle: Aparecer en las Primeras Posiciones de Google y Bing
+        text: >+
+          No basta con tener un sitio web bonito; también debe ser visible para
+          tu audiencia. Implementamos estrategias SEO avanzadas para posicionar
+          tu sitio en los primeros resultados de Google. Desde la optimización
+          técnica hasta la creación de contenido relevante, nos encargamos de
+          que tu página sea encontrada por los clientes que más te interesan.
+
+
+          *   Análisis de palabras clave y competencia
+
+
+          *   Optimización On-page (metaetiquetas, URL, estructura)
+
+
+          *   Estrategias de contenido SEO
+
+
+          *   Link building y SEO Off-page
+
+
+          *   Auditorías SEO técnicas
+
+
+
         image:
-          url: /images/icon2.svg
+          url: /images/posicionamiento-web.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -115,14 +155,31 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Gestión de Redes Sociales
+        subtitle: Presencia Digital en Redes Sociales
+        text: >+
+          Ayudamos a tener una presencia sólida en redes sociales como Facebook,
+          Instagram, LinkedIn, y más. Ofrecemos creación de contenidos
+          atractivos y estrategias de crecimiento para aumentar el engagement y
+          la visibilidad de la marca.
+
+
+          *   Creación y gestión de perfiles en redes sociales
+
+
+          *   Planificación de contenido y campañas
+
+
+          *   Diseño gráfico para redes sociales
+
+
+          *   Estrategias de publicidad en redes sociales (Facebook Ads,
+          Instagram Ads)
+
+
+
         image:
-          url: /images/icon3.svg
+          url: /images/redes-sociales.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -139,9 +196,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Contáctanos
         altText: ''
-        url: /
+        url: 'tel:322-957-6512'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -149,7 +206,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Servicios Destacados
       color: text-primary
       styles:
         self:
@@ -168,11 +225,12 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Empresas que Confían en Nosotros
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/logo_75.png
+        altText: Plomeros Destape
         type: ImageBlock
+        elementId: 'https://plomerosdestape.com.co/'
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
@@ -229,40 +287,34 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Hacer Crecer tu Negocio 10 veces más Rapido
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    subtitle: Publicidad en Google Ads (SEM)
+    text: >+
+      El SEO lleva tiempo, pero con campañas bien optimizadas en Google Ads,
+      puedes obtener resultados inmediatos. Ofrecemos gestión y optimización de
+      campañas para aumentar el tráfico y las conversiones.
+
+
+      *   Configuración y optimización de campañas de Google Ads
+
+
+      *   Análisis y segmentación de audiencia
+
+
+      *   Creación de anuncios efectivos
+
+
+      *   Monitoreo y optimización continua
+
+
+
     badge:
-      label: Key Benefits
+      label: Beneficios Clave
       color: text-primary
       styles:
         self:
@@ -278,39 +330,31 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Auditorías Web y Consultoría de UX/UI
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Análisis Precisos
+    text: >+
+      Ofrecemos servicios de revisión y análisis de sitios web desde el punto de
+      vista de la experiencia de usuario (UX) y la interfaz de usuario (UI).
+      Proporcionamos recomendaciones para mejorar la usabilidad, aumentar las
+      conversiones y optimizar el rendimiento del sitio.
+
+
+      *   Evaluación de la estructura y diseño del sitio
+
+
+      *   Recomendaciones para mejorar la navegación y la experiencia de usuario
+
+
+      *   Consultoría para mejorar la tasa de conversión
+
+
+
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
     styles:
@@ -320,20 +364,36 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Mantenimiento y Actualización Web
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: Mantenimiento Continuo
+    text: >+
+      Si necesitas soporte continuo para mantener su sitio web actualizado y
+      seguro. Ofrecemos un servicio de mantenimiento regular que incluye
+      actualizaciones de plugins, revisión de seguridad y pequeñas mejoras o
+      cambios en el diseño.
+
+
+      *   Actualización de contenidos
+
+
+      *   Corrección de errores y bugs
+
+
+      *   Monitorización y backups de seguridad
+
+
+      *   Mejora de rendimiento y optimización técnica continua
+
     actions:
-      - label: Get started
-        url: /
+      - label: Contáctanos
+        url: 'tel:322-957-6512'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
+        altText: 322 957 6512
       - label: See Tutorials
         url: /
         showIcon: true
@@ -342,11 +402,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/crecer-web.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Soporte Continuo
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -355,13 +415,26 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Diseño Gráfico y Branding
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    subtitle: Identidad Digital
+    text: >+
+      El diseño visual es clave para la identidad digital. ofrecemos servicios
+      de creación de logotipos, diseño de material gráfico (tarjetas de
+      presentación, banners, etc.) y todo lo relacionado con el branding
+      digital.
+
+
+      *   Creación de identidad visual de marca (logotipos, paleta de colores,
+      tipografía)
+
+
+      *   Diseño de banners, infografías, y elementos visuales
+
+
+      *   Material gráfico para campañas publicitarias o redes sociales
+
     actions:
       - label: Get started
         url: /
@@ -377,11 +450,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/concepto-de-diseño-web.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Destacamiento Digital
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -402,19 +475,30 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Email Marketing
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: ''
+        tagline: Herramientas de Fidelización
+        subtitle: Estrategias de Ventas
+        text: >+
+          Ayudamos a los clientes a conectar con su audiencia a través de
+          estrategias de email marketing, una herramienta poderosa para
+          fidelizar clientes y aumentar las ventas.
+
+
+          *   Diseño y automatización de campañas de email marketing.
+
+
+          *   Segmentación de listas de suscriptores.
+
+
+          *   Creación de contenido para boletines y campañas.
+
+
+          *   Análisis de resultados y optimización
+
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/email-marketing.jpg
           altText: Maria Walters
           styles:
             self:
@@ -435,7 +519,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +549,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +609,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +639,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -589,21 +677,25 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: ¿Por qué elegirnos?
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ¡Trabajemos juntos!
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Soluciones Personalizadas
+        tagline: Resultados Medibles
+        subtitle: Aumento de las Experiencias Digitales
+        text: >
+          Sabemos que cada negocio es único, por eso ofrecemos soluciones
+          personalizadas que se ajustan a tus metas y presupuesto. Nos enfocamos
+          en crear experiencias digitales que no solo atraen visitas, sino que
+          también generan resultados medibles, aumentando tus conversiones y
+          visibilidad en el mercado.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/soluciones-personalizadas.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -620,13 +712,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Experiencia y profesionalismo
+        tagline: Técnicas Avanzadas y Exitosas
+        subtitle: Asesoramiento Permanente
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+
+          Contamos con un equipo experto en desarrollo web y SEO.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/experiencia-profesionalismo.jpg
           altText: Placeholder image
           styles:
             self:
@@ -643,13 +736,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+      - title: Estrategias personalizadas
+        tagline: Resultados comprobados
+        subtitle: Soporte continuo
+        text: |+
+
+          Nos adaptamos a las necesidades específicas de tu negocio.
+
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/estrategias-personalizadas.jpg
           altText: Placeholder image
           styles:
             self:
@@ -680,24 +775,17 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Haz tu Cotización
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ¡Empieza Ahora!
+    text: >+
+
+      ¿Listo para llevar tu negocio al siguiente nivel? Contáctanos hoy para una
+      consulta gratuita. Juntos, haremos crecer tu presencia online.
+
     media:
       fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
@@ -726,14 +814,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: 322-957-6512
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contáctanos
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
