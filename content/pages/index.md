@@ -121,7 +121,7 @@ sections:
           por los clientes que más te interesan.</div>
 
 
-          *   Análisis de palabras clave y competencia
+          Análisis de palabras clave y competencia
 
 
           *   Optimización On-page (metaetiquetas, URL, estructura)
