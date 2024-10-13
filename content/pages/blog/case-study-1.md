@@ -26,14 +26,13 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: Acerca de Empresa
+        tagline: Plomeros Destape
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Somos una empresa de plomería y Acabados lideres en el sector en
+          Bogotá
         image:
-          url: /images/telus-logo.svg
+          url: /images/logo_75.png
           altText: Company logo
           styles:
             self:
