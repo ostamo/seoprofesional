@@ -15,7 +15,7 @@ sections:
         price: DISEÑO DE PAGINAS WEB
         details: ''
         description: |+
-          # $700.000 a $1000.000
+          # $700.000 a $8.000.000
 
         features:
           - >-
