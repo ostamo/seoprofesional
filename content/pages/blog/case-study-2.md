@@ -33,7 +33,7 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/plomería-bogotá24hr.PNG
+          url: /images/plomeriabogota24hr.PNG
           altText: Company logo
           styles:
             self:
