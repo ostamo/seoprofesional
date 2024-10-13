@@ -38,7 +38,9 @@ sections:
             Velocidad de Carga: Optimización para tiempos de carga rápidos,
             garantizando una mejor experiencia de usuario y un mayor rendimiento
             en motores de búsqueda.
-          - ''
+          - >-
+            Interfaz Intuitiva: Navegación fácil de usar, asegurando que los
+            visitantes encuentren la información que necesitan rápidamente.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
