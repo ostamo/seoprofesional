@@ -89,10 +89,9 @@ sections:
     items:
       - title: Ejecutivos de Cuentas
         subtitle: Ventas
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Personal Experto en Ventas y Marqueting
+
         colors: bg-neutral-fg-dark
         styles:
           self:
