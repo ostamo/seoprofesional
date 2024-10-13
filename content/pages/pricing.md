@@ -38,6 +38,7 @@ sections:
             Velocidad de Carga: Optimización para tiempos de carga rápidos,
             garantizando una mejor experiencia de usuario y un mayor rendimiento
             en motores de búsqueda.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
