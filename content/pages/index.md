@@ -235,7 +235,7 @@ sections:
       - url: /images/logo-plomeriabogota24hr.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/cropped-logo_plomeriadomicilio-1.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
