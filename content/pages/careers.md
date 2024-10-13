@@ -88,7 +88,7 @@ sections:
     subtitle: Postulaciones
     items:
       - title: Ejecutivos de Cuentas
-        subtitle: Sales
+        subtitle: Ventas
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
