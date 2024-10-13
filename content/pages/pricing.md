@@ -54,6 +54,7 @@ sections:
             Gestión de Contenidos (CMS): Implementación de sistemas como
             WordPress para que el cliente pueda actualizar su contenido
             fácilmente.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
