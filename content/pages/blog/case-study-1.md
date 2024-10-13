@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Acerca de Empresa
-        tagline: This is the tagline
+        tagline: Plomeros Destape
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
