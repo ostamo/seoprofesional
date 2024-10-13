@@ -50,7 +50,10 @@ sections:
           - >-
             Plataforma Escalable: Posibilidad de expandir y actualizar
             fácilmente el sitio a medida que crece el negocio.
-          - ''
+          - >-
+            Gestión de Contenidos (CMS): Implementación de sistemas como
+            WordPress para que el cliente pueda actualizar su contenido
+            fácilmente.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
