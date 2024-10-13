@@ -41,6 +41,7 @@ sections:
           - >-
             Interfaz Intuitiva: Navegación fácil de usar, asegurando que los
             visitantes encuentren la información que necesitan rápidamente.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
