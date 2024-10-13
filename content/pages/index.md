@@ -230,7 +230,7 @@ sections:
         altText: Plomeros Destape
         type: ImageBlock
         elementId: 'https://plomerosdestape.com.co/'
-      - url: /images/plomería-bogotá24hr.PNG
+      - url: /images/logo-plomeriabogota24hr.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
