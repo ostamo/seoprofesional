@@ -241,8 +241,7 @@ sections:
       - url: /images/logo-plomeros-bogota-co.PNG
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/logo-gydconsulting.PNG
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
