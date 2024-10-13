@@ -65,9 +65,6 @@ sections:
       - content/data/person1.json
       - content/data/person2.json
       - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -82,20 +79,19 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Posiciones Abiertas
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Postulaciones
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Ejecutivos de Cuentas
+        subtitle: Ventas
+        text: |+
+          Personal Experto en Ventas y Marqueting
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -109,12 +105,11 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Ingeniero de Código Abierto
+        subtitle: PROGRAMACIÓN
+        text: |+
+          Profesional en Programación
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -129,11 +124,12 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Ingeniero
+        text: |+
+          Profesional Especialista en Sofware
+
+
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -146,7 +142,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Aplicar
         url: /
         icon: arrowRight
         iconPosition: right
