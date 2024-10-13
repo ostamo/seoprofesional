@@ -91,7 +91,7 @@ sections:
           - Sitio de 3 a 5 páginas.
           - Optimización SEO básica.
           - Integración de redes sociales.
-          - ''
+          - Certificado SSL.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
