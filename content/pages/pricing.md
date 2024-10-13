@@ -27,7 +27,9 @@ sections:
           - >-
             Diseño Personalizado: Páginas creadas a medida para reflejar la
             identidad única de cada negocio o proyecto.
-          - Feature two
+          - >-
+            Optimización SEO: Diseño con técnicas de SEO incorporadas para
+            mejorar el posicionamiento en buscadores y aumentar la visibilidad.
           - Feature three
           - Feature four
         image:
