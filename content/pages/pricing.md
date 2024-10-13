@@ -61,7 +61,9 @@ sections:
           - >-
             Optimización para Conversión: Estrategias de diseño enfocadas en
             mejorar las tasas de conversión y maximizar el retorno de inversión.
-          - ''
+          - >-
+            Integración de E-commerce: Creación de tiendas en línea seguras y
+            funcionales, listas para vender productos o servicios.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
