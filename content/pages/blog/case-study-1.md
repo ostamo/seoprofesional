@@ -89,8 +89,6 @@ type: PostLayout
 ---
 En **Plomeros Destape**, logramos un éxito destacado en la creación y posicionamiento web en un corto periodo de tiempo. A solo **cuatro meses** de estar indexada en Google, la página ha alcanzado resultados impresionantes. Actualmente, se posiciona en el **4.º lugar** para la palabra clave "plomería" y en el **5.º lugar** para "plomeros", dos de los términos más competitivos en el mercado de Bogotá. Además, el sitio se encuentra en el **top 20** para palabras clave de alto volumen en este sector.
 
-
-
 > "Estoy muy satisfecho con los resultados que hemos logrado en tan poco tiempo. Nuestra página web, que lleva apenas **cuatro meses** indexada en Google, ya se ha posicionado de manera excelente. Actualmente, estamos en el **4.º lugar** para la palabra 'plomería' y en el **5.º lugar** para 'plomeros'. Esto es impresionante considerando lo competitivo que es el mercado en Bogotá. Además, para servicios clave como la **reparación de duchas** y **reparación de lavamanos**, hemos alcanzado el **3.er lugar**, y para la **reparación de sanitarios** estamos en el **5.º lugar**.
 >
 > Estos resultados han sido fundamentales para aumentar nuestra visibilidad y atraer más clientes. También estamos bien posicionados para otros servicios, siempre dentro de los **10 primeros lugares** en Google. La estrategia de SEO ha sido crucial para lograr estos resultados en un tiempo récord."
@@ -100,7 +98,7 @@ En **Plomeros Destape**, logramos un éxito destacado en la creación y posicion
 >
 > Los resultados son aún más notables en servicios específicos: estamos en la **3.ª posición** para "reparación de duchas" y "reparación de lavamanos", y en la **5.ª posición** para "reparación de sanitarios". Para otros servicios relacionados en Bogotá, **Plomeros Destape** se ubica consistentemente entre los **10 primeros** resultados de Google. Estos logros han generado un aumento significativo en el tráfico web, consolidando a la empresa como una de las principales en su sector.
 >
+> ![](/images/evidencias.PNG)
 
-![](/images/img-placeholder.svg)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+
