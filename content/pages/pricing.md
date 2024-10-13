@@ -89,7 +89,7 @@ sections:
         features:
           - Diseño personalizado y responsivo.
           - Sitio de 3 a 5 páginas.
-          - Feature three
+          - Optimización SEO básica.
           - Feature four
         image:
           url: /images/abstract-feature2.svg
