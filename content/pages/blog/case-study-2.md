@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Acerca de la Empresa
-        tagline: This is the tagline
+        tagline: Plomería Bogotá 24hr
         subtitle: >-
           Empresa dedicada a prestar de forma excelente servicios de plomería a
           domicilio en Bogotá
