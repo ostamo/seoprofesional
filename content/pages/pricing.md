@@ -58,6 +58,7 @@ sections:
             Soporte Técnico y Mantenimiento: Servicio post-venta para asegurar
             que la página web siga funcionando de manera óptima con
             actualizaciones y mantenimiento continuo.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
