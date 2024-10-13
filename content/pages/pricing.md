@@ -13,31 +13,7 @@ sections:
     plans:
       - title: SEO-posicionamiento
         price: DISEÑO DE PAGINAS WEB
-        details: >-
-          Diseño Personalizado: Páginas creadas a medida para reflejar la
-          identidad única de cada negocio o proyecto. Optimización SEO: Diseño
-          con técnicas de SEO incorporadas para mejorar el posicionamiento en
-          buscadores y aumentar la visibilidad.Diseño Responsivo: Adaptación de
-          las páginas para que funcionen perfectamente en cualquier dispositivo,
-          ya sea móvil, tablet o computadora.Velocidad de Carga: Optimización
-          para tiempos de carga rápidos, garantizando una mejor experiencia de
-          usuario y un mayor rendimiento en motores de búsqueda.Interfaz
-          Intuitiva: Navegación fácil de usar, asegurando que los visitantes
-          encuentren la información que necesitan rápidamente.Seguridad:
-          Integración de certificados SSL y prácticas seguras de codificación
-          para proteger la información de los usuarios.Integración con Redes
-          Sociales: Conexiones directas a plataformas de redes sociales para
-          facilitar la interacción y promoción.Plataforma Escalable: Posibilidad
-          de expandir y actualizar fácilmente el sitio a medida que crece el
-          negocio.Gestión de Contenidos (CMS): Implementación de sistemas como
-          WordPress para que el cliente pueda actualizar su contenido
-          fácilmente.Soporte Técnico y Mantenimiento: Servicio post-venta para
-          asegurar que la página web siga funcionando de manera óptima con
-          actualizaciones y mantenimiento continuo.Optimización para Conversión:
-          Estrategias de diseño enfocadas en mejorar las tasas de conversión y
-          maximizar el retorno de inversión.Integración de E-commerce: Creación
-          de tiendas en línea seguras y funcionales, listas para vender
-          productos o servicios.
+        details: ''
         description: |+
           # $700.000 a $1000.000
 
