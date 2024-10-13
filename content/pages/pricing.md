@@ -90,7 +90,7 @@ sections:
           - Diseño personalizado y responsivo.
           - Sitio de 3 a 5 páginas.
           - Optimización SEO básica.
-          - Feature four
+          - Integración de redes sociales.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
