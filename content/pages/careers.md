@@ -3,26 +3,33 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Equipo de Trabajo
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: 'SEO-posicionamiento: Líderes en Diseño Web y Estrategias SEO'
+    text: >+
+      En **SEO-posicionamiento**, estamos comprometidos en llevar tu negocio al
+      siguiente nivel a través de soluciones integrales de diseño web y
+      estrategias avanzadas de SEO. Nuestro equipo está liderado por **Oswaldo
+      Talero**, un experto en posicionamiento digital con una amplia trayectoria
+      en mejorar la visibilidad y rendimiento de sitios web en motores de
+      búsqueda. Nos especializamos en crear páginas web personalizadas,
+      funcionales y optimizadas para SEO desde su desarrollo, asegurando que no
+      solo sean atractivas visualmente, sino también efectivas en atraer tráfico
+      y generar conversiones. En **SEO-posicionamiento**, nuestro objetivo es
+      que tu presencia online sea un motor de crecimiento para tu negocio.
+
     actions:
-      - label: See open positions
-        url: /
+      - label: Contáctanos
+        url: 'tel:322-957-6512'
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
+        altText: 322 957 6512
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -48,7 +55,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Conoce al Equipo
       color: text-dark
       styles:
         self:
