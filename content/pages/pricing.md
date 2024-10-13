@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Nuestra Prioridad es Lograr un Acuerdo Justo
     plans:
       - title: SEO-posicionamiento
         price: DISEÑO DE PAGINAS WEB
