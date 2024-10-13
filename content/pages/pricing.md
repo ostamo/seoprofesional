@@ -44,7 +44,9 @@ sections:
           - >-
             Seguridad: Integración de certificados SSL y prácticas seguras de
             codificación para proteger la información de los usuarios.
-          - ''
+          - >-
+            Integración con Redes Sociales: Conexiones directas a plataformas de
+            redes sociales para facilitar la interacción y promoción.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
