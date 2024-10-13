@@ -230,22 +230,20 @@ sections:
         altText: Plomeros Destape
         type: ImageBlock
         elementId: 'https://plomerosdestape.com.co/'
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/logo-plomeriabogota24hr.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/cropped-logo_plomeriadomicilio-1.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/logo-plomeros-bogota-co.PNG
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/logo-gydconsulting.PNG
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
@@ -259,7 +257,6 @@ sections:
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
     showAuthor: true
