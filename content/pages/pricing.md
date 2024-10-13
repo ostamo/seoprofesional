@@ -81,7 +81,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Plan Básico
-        price: $99
+        price: 1000000 a 2000000
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
