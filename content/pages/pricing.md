@@ -58,7 +58,9 @@ sections:
             Soporte Técnico y Mantenimiento: Servicio post-venta para asegurar
             que la página web siga funcionando de manera óptima con
             actualizaciones y mantenimiento continuo.
-          - ''
+          - >-
+            Optimización para Conversión: Estrategias de diseño enfocadas en
+            mejorar las tasas de conversión y maximizar el retorno de inversión.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
