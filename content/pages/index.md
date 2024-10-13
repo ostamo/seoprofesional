@@ -238,7 +238,7 @@ sections:
       - url: /images/cropped-logo_plomeriadomicilio-1.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/logo-plomeros-bogota-co.PNG
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
