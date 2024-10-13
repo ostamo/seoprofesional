@@ -88,7 +88,7 @@ sections:
           accusantium doloremque.
         features:
           - Diseño personalizado y responsivo.
-          - Feature two
+          - Sitio de 3 a 5 páginas.
           - Feature three
           - Feature four
         image:
