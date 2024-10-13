@@ -44,6 +44,7 @@ sections:
           - >-
             Seguridad: Integración de certificados SSL y prácticas seguras de
             codificación para proteger la información de los usuarios.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
