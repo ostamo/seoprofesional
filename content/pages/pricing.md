@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Developers
-        price: DISEÑO DE LANDING PAGE
+        price: DISEÑO DE PAGINAS WEB
         details: No se requiere tarjeta de crédito
         description: >
           # $700.000 a $1000.000
