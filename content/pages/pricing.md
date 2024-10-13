@@ -24,7 +24,9 @@ sections:
           marcas personales o empresas. Ofrecemos diseños web de alta calidad
           para asegurar resultados efectivos.
         features:
-          - Feature one
+          - >-
+            Diseño Personalizado: Páginas creadas a medida para reflejar la
+            identidad única de cada negocio o proyecto.
           - Feature two
           - Feature three
           - Feature four
