@@ -107,10 +107,9 @@ sections:
         type: FeaturedItem
       - title: INGENIERO DE CÓDIGO ABIERTO
         subtitle: PROGRAMACIÓN
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Profesional en Programación
+
         colors: bg-neutral-fg-dark
         styles:
           self:
