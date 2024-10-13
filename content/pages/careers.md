@@ -87,7 +87,7 @@ sections:
       type: TitleBlock
     subtitle: Postulaciones
     items:
-      - title: Account Executive
+      - title: Ejecutivos de Cuentas
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
