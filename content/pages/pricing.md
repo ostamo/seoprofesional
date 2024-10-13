@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
+      - title: SEO-posicionamiento
         price: DISEÑO DE PAGINAS WEB
         details: >-
           Diseño Personalizado: Páginas creadas a medida para reflejar la
