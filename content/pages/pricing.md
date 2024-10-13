@@ -14,7 +14,25 @@ sections:
       - title: Developers
         price: LANDING PAGE
         details: No credit card required
-        description: "## **LANDING PAGE\_ECO**\n\n# $700.000\n\n\n\nPágina web administrable\nDiseño landing page\n***Línea gráfica web estandar***\nBanner estático\nHasta 4 bloques navegables.\nAdaptable a Movil, Tablets y Computadores\nLinks a Redes Sociales\nFormulario de Contacto (Básico)\nGoogle maps\nEnlaces a sitios externos\nCertificado SSL\nSoporte y capacitación\n1 Cuentas de correo corporativo\nBotón WhatsApp\n\n\n**Incluye Hosting y Dominio**\n\n\n\n\n\n"
+        description: |
+          # $700.000
+
+          Página web administrable
+          Diseño landing page
+          ***Línea gráfica web estandar***
+          Banner estático
+          Hasta 4 bloques navegables.
+          Adaptable a Movil, Tablets y Computadores
+          Links a Redes Sociales
+          Formulario de Contacto (Básico)
+          Google maps
+          Enlaces a sitios externos
+          Certificado SSL
+          Soporte y capacitación
+          1 Cuentas de correo corporativo
+          Botón WhatsApp
+
+          **Incluye Hosting y Dominio**
         features:
           - Feature one
           - Feature two
