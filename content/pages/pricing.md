@@ -41,7 +41,9 @@ sections:
           - >-
             Interfaz Intuitiva: Navegación fácil de usar, asegurando que los
             visitantes encuentren la información que necesitan rápidamente.
-          - ''
+          - >-
+            Seguridad: Integración de certificados SSL y prácticas seguras de
+            codificación para proteger la información de los usuarios.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
