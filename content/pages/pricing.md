@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Developers
-        price: LANDING PAGE
+        price: DISEÑO DE LANDING PAGE
         details: No se requiere tarjeta de crédito
         description: |
           # $700.000
