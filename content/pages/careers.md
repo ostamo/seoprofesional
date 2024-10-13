@@ -23,7 +23,7 @@ sections:
       que tu presencia online sea un motor de crecimiento para tu negocio.
 
     actions:
-      - label: See open positions
+      - label: Contáctanos
         url: /
         icon: arrowRight
         iconPosition: right
