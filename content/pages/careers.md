@@ -24,7 +24,7 @@ sections:
 
     actions:
       - label: Contáctanos
-        url: /
+        url: 'tel:322-957-6512'
         icon: arrowRight
         iconPosition: right
         style: primary
