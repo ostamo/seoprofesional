@@ -14,8 +14,8 @@ sections:
       - title: SEO-posicionamiento
         price: DISEÑO DE PAGINAS WEB
         details: >-
-          Soporte y capacitación Cuentas de correo corporativoBotón
-          WhatsAppIncluye Hosting y Dominio
+          Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
+          Incluye Hosting y Dominio
         description: |+
           # $700.000 a $8.000.000
 
