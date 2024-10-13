@@ -84,7 +84,9 @@ sections:
         type: PricingPlan
       - title: Plan Básico
         price: 1.000.000 a 1.500.000
-        details: per month
+        details: >-
+          Soporte y capacitación; Cuentas de correo corporativo de 1 a t; Botón
+          WhatsApp; Incluye Hosting y Dominio durante un año o 3 años
         description: >+
           Ideal para: pequeños negocios, emprendedores o freelancers que
           necesitan una presencia básica en línea.
