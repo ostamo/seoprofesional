@@ -75,6 +75,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
+            altText: 322-957-6512
         colors: bg-neutral-fg-dark
         styles:
           self:
