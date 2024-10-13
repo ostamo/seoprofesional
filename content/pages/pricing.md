@@ -47,7 +47,9 @@ sections:
           - >-
             Integración con Redes Sociales: Conexiones directas a plataformas de
             redes sociales para facilitar la interacción y promoción.
-          - ''
+          - >-
+            Plataforma Escalable: Posibilidad de expandir y actualizar
+            fácilmente el sitio a medida que crece el negocio.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
