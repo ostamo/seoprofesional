@@ -14,8 +14,8 @@ sections:
       - title: Developers
         price: DISEÑO DE LANDING PAGE
         details: No se requiere tarjeta de crédito
-        description: >+
-          # $700.000
+        description: >
+          # $700.000 a $1000.000
 
 
           Una landing page es un sitio web enfocado en lograr que los usuarios
@@ -23,7 +23,6 @@ sections:
           páginas son ideales para promocionar productos, servicios, artistas,
           marcas personales o empresas. Ofrecemos diseños web de alta calidad
           para asegurar resultados efectivos.
-
         features:
           - Feature one
           - Feature two
