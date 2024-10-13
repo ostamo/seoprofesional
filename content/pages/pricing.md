@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Developers
         price: LANDING PAGE
-        details: No credit card required
+        details: No se requiere tarjeta de crédito
         description: |
           # $700.000
 
