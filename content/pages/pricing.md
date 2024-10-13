@@ -97,9 +97,6 @@ sections:
           - Optimización SEO básica.
           - Integración de redes sociales.
           - Certificado SSL.
-          - >-
-            Ideal para: pequeños negocios, emprendedores o freelancers que
-            necesitan una presencia básica en línea.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
