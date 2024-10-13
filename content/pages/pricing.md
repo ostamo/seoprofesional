@@ -30,7 +30,10 @@ sections:
           - >-
             Optimización SEO: Diseño con técnicas de SEO incorporadas para
             mejorar el posicionamiento en buscadores y aumentar la visibilidad.
-          - Feature three
+          - >-
+            Diseño Responsivo: Adaptación de las páginas para que funcionen
+            perfectamente en cualquier dispositivo, ya sea móvil, tablet o
+            computadora.
           - Feature four
         image:
           url: /images/abstract-feature1.svg
