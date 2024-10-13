@@ -50,6 +50,7 @@ sections:
           - >-
             Plataforma Escalable: Posibilidad de expandir y actualizar
             fácilmente el sitio a medida que crece el negocio.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
