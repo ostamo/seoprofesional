@@ -836,7 +836,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: 322-957-6512
+        label: Enviar
         showIcon: false
         icon: arrowRight
         iconPosition: right
