@@ -14,25 +14,16 @@ sections:
       - title: Developers
         price: DISEÑO DE LANDING PAGE
         details: No se requiere tarjeta de crédito
-        description: |
+        description: >+
           # $700.000
 
-          Página web administrable
-          Diseño landing page
-          ***Línea gráfica web estandar***
-          Banner estático
-          Hasta 4 bloques navegables.
-          Adaptable a Movil, Tablets y Computadores
-          Links a Redes Sociales
-          Formulario de Contacto (Básico)
-          Google maps
-          Enlaces a sitios externos
-          Certificado SSL
-          Soporte y capacitación
-          1 Cuentas de correo corporativo
-          Botón WhatsApp
 
-          **Incluye Hosting y Dominio**
+          Una landing page es un sitio web enfocado en lograr que los usuarios
+          realicen una acción específica o se conviertan en clientes. Estas
+          páginas son ideales para promocionar productos, servicios, artistas,
+          marcas personales o empresas. Ofrecemos diseños web de alta calidad
+          para asegurar resultados efectivos.
+
         features:
           - Feature one
           - Feature two
