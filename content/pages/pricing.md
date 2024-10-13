@@ -13,7 +13,9 @@ sections:
     plans:
       - title: SEO-posicionamiento
         price: DISEÑO DE PAGINAS WEB
-        details: ''
+        details: >-
+          Soporte y capacitación Cuentas de correo corporativoBotón
+          WhatsAppIncluye Hosting y Dominio
         description: |+
           # $700.000 a $8.000.000
 
