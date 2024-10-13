@@ -92,6 +92,7 @@ sections:
           - Optimización SEO básica.
           - Integración de redes sociales.
           - Certificado SSL.
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
