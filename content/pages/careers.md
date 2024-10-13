@@ -142,7 +142,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Aplicar
         url: /
         icon: arrowRight
         iconPosition: right
