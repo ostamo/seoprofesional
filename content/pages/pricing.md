@@ -85,7 +85,7 @@ sections:
       - title: Plan Básico
         price: 1.000.000 a 1.500.000
         details: >-
-          Soporte y capacitación; Cuentas de correo corporativo de 1 a t; Botón
+          Soporte y capacitación; Cuentas de correo corporativo de 1 a 5; Botón
           WhatsApp; Incluye Hosting y Dominio durante un año o 3 años
         description: >+
           Ideal para: pequeños negocios, emprendedores o freelancers que
