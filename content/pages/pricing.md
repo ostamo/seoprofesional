@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Developers
-        price: Free
+        price: LANDING PAGE
         details: No credit card required
         description: "## **LANDING PAGE\_ECO**\n\n# $700.000\n\n\n\nPágina web administrable\nDiseño landing page\n***Línea gráfica web estandar***\nBanner estático\nHasta 4 bloques navegables.\nAdaptable a Movil, Tablets y Computadores\nLinks a Redes Sociales\nFormulario de Contacto (Básico)\nGoogle maps\nEnlaces a sitios externos\nCertificado SSL\nSoporte y capacitación\n1 Cuentas de correo corporativo\nBotón WhatsApp\n\n\n**Incluye Hosting y Dominio**\n\n\n\n\n\n"
         features:
