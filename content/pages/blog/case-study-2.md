@@ -29,9 +29,8 @@ bottomSections:
       - title: Acerca de la Empresa
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Empresa dedicada a prestar de forma excelente servicios de plomería a
+          domicilio en Bogotá
         image:
           url: /images/plomeriabogota24hr.PNG
           altText: Company logo
