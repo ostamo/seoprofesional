@@ -15,7 +15,7 @@ sections:
         price: DISEÑO DE PAGINAS WEB
         details: >-
           Diseño Personalizado: Páginas creadas a medida para reflejar la
-          identidad única de cada negocio o proyecto.Optimización SEO: Diseño
+          identidad única de cada negocio o proyecto. Optimización SEO: Diseño
           con técnicas de SEO incorporadas para mejorar el posicionamiento en
           buscadores y aumentar la visibilidad.Diseño Responsivo: Adaptación de
           las páginas para que funcionen perfectamente en cualquier dispositivo,
