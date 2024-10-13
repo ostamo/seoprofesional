@@ -32,7 +32,7 @@ bottomSections:
           Empresa dedicada a prestar de forma excelente servicios de plomería a
           domicilio en Bogotá
         image:
-          url: /images/plomeriabogota24hr.PNG
+          url: /images/logo-plomeriabogota24hr.png
           altText: Company logo
           styles:
             self:
