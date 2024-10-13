@@ -85,9 +85,12 @@ sections:
       - title: Plan Básico
         price: 1.000.000 a 1.500.000
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Ideal para: pequeños negocios, emprendedores o freelancers que
+          necesitan una presencia básica en línea.
+
+
+
         features:
           - Diseño personalizado y responsivo.
           - Sitio de 3 a 5 páginas.
