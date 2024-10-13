@@ -105,7 +105,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: INGENIERO DE CÓDIGO ABIERTO
+      - title: Ingeniero de Código Abierto
         subtitle: PROGRAMACIÓN
         text: |+
           Profesional en Programación
