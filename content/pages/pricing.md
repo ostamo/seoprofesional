@@ -129,7 +129,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Todo lo incluido en el plan básico.
-          - Feature two
+          - De 6 a 10 páginas.
           - Feature three
           - Feature four
           - Feature five
