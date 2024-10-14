@@ -165,9 +165,10 @@ sections:
           Soporte y capacitación; Cuentas de correo corporativo ilimitadas;
           Botón WhatsApp; Incluye Hosting 75 GB y Dominio durante un año o 3
           años
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          **Ideal para**: empresas grandes o negocios que buscan una plataforma
+          e-commerce o soluciones más completas.
+
         features:
           - Feature one
           - Feature two
