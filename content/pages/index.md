@@ -262,23 +262,11 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Hacer Crecer tu Negocio 10 veces más Rapido
       color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: Publicidad en Google Ads (SEM)
     text: >+
       El SEO lleva tiempo, pero con campañas bien optimizadas en Google Ads,
@@ -297,171 +285,39 @@ sections:
 
       *   Monitoreo y optimización continua
 
-    badge:
-      label: Beneficios Clave
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    media:
-      type: ImageBlock
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-      url: /images/internet-rapido.jpg
-  - type: GenericSection
-    title:
-      text: Auditorías Web y Consultoría de UX/UI
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Análisis Precisos
-    text: >+
-      Ofrecemos servicios de revisión y análisis de sitios web desde el punto de
-      vista de la experiencia de usuario (UX) y la interfaz de usuario (UI).
-      Proporcionamos recomendaciones para mejorar la usabilidad, aumentar las
-      conversiones y optimizar el rendimiento del sitio.
 
-
-      *   Evaluación de la estructura y diseño del sitio
-
-
-      *   Recomendaciones para mejorar la navegación y la experiencia de usuario
-
-
-      *   Consultoría para mejorar la tasa de conversión
-
-
-
-    actions: []
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/qkNEaPB7ogs'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-  - title:
-      text: Mantenimiento y Actualización Web
-      color: text-dark
-      type: TitleBlock
-    subtitle: Mantenimiento Continuo
-    text: >+
-      Si necesitas soporte continuo para mantener su sitio web actualizado y
-      seguro. Ofrecemos un servicio de mantenimiento regular que incluye
-      actualizaciones de plugins, revisión de seguridad y pequeñas mejoras o
-      cambios en el diseño.
-
-
-      *   Actualización de contenidos
-
-
-      *   Corrección de errores y bugs
-
-
-      *   Monitorización y backups de seguridad
-
-
-      *   Mejora de rendimiento y optimización técnica continua
 
     actions:
-      - label: Contáctanos
+      - type: Button
+        label: Contáctanos
         url: 'tel:322-957-6512'
         icon: arrowRight
         iconPosition: right
         style: secondary
-        type: Button
-        altText: 322 957 6512
-    media:
-      url: /images/crecer-web.jpg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: Soporte Continuo
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Diseño Gráfico y Branding
-      color: text-dark
-      type: TitleBlock
-    subtitle: Identidad Digital
-    text: >+
-      El diseño visual es clave para la identidad digital. ofrecemos servicios
-      de creación de logotipos, diseño de material gráfico (tarjetas de
-      presentación, banners, etc.) y todo lo relacionado con el branding
-      digital.
-
-
-      *   Creación de identidad visual de marca (logotipos, paleta de colores,
-      tipografía)
-
-
-      *   Diseño de banners, infografías, y elementos visuales
-
-
-      *   Material gráfico para campañas publicitarias o redes sociales
-
-    actions:
-      - label: Contáctanos
-        url: 'tel:322-975-6512'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
         altText: 322-957-6512
     media:
-      url: /images/concepto-de-diseño-web.jpg
-      altText: Dope design preview
       type: ImageBlock
+      url: /images/crecer-web.jpg
+      altText: Crecimiento en la Presencia Digital
     badge:
-      label: Destacamiento Digital
-      color: text-primary
       type: Badge
+      label: Beneficios Clave
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
-    type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
