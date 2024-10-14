@@ -427,8 +427,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          Mantenimiento ContinuoSi necesitas soporte continuo para mantener su
+          sitio web actualizado y seguro. Ofrecemos un servicio de mantenimiento
+          regular que incluye actualizaciones de plugins, revisión de seguridad
+          y pequeñas mejoras o cambios en el diseño.
         tagline: Mantenimiento y Actualización Web
         subtitle: 'John Doe, Company'
         text: >-
