@@ -426,17 +426,27 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: ''
+        tagline: Mantenimiento y Actualización Web
+        subtitle: Mantenimiento Continuo
+        text: >+
+          Si necesitas soporte continuo para mantener su sitio web actualizado y
+          seguro. Ofrecemos:
+
+
+          *   Actualización de contenidos
+
+
+          *   Corrección de errores y bugs
+
+
+          *   Monitorización y backups de seguridad
+
+
+          *   Mejora de rendimiento y optimización técnica continua
+
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/concepto-de-diseño-web.jpg
           altText: John Doe
           styles:
             self:
@@ -456,17 +466,26 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+      - title: Diseño Gráfico y Branding
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Identidad Digital
+        text: >+
+          El diseño visual es clave para la identidad digital. ofrecemos:
+
+
+          *   Creación de identidad visual de marca (logotipos, paleta de
+          colores, tipografía)
+
+
+          *   Diseño de banners, infografías, y elementos visuales
+
+
+          *   Material gráfico para campañas publicitarias o redes sociales
+
+
+
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/diseno-web-moderno.jpg
           altText: Maria Walters
           styles:
             self:
