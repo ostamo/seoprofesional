@@ -226,7 +226,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try for free
+            label: Contáctanos
             url: /
             icon: arrowRight
             iconPosition: right
