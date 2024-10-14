@@ -209,7 +209,9 @@ sections:
           20-30% para los primeros clientes.
 
         features:
-          - Feature one
+          - >-
+            Mantenimiento mensual: Desde $200.000 a $800.000 COP/mes dependiendo
+            del tamaño y necesidades del sitio.
           - Feature two
           - Feature three
           - Feature four
