@@ -39,16 +39,17 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Descargas",
+            "altText": "ARchivos",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Descarga de Precios",
+                    "url": "https://drive.google.com/drive/my-drive",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Precios"
                 },
                 {
                     "label": "Dropdown item",
