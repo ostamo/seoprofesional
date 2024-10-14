@@ -3,9 +3,11 @@ title: Los Primeros Pasos para Empezar a Tener una Presencia Digital
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Empezar a construir una presencia digital es un paso crucial para cualquier
+  negocio en la era moderna. Al seguir estos primeros pasos —definiendo tus
+  objetivos, creando un sitio web, optimizando para SEO y manteniendo una
+  interacción activa con tus clientes— estarás estableciendo una base sólida
+  para el éxito digital. ¡No esperes más para digitalizar tu negocio!
 featuredImage:
   url: /images/los-primeros-pasos.jpg
   altText: Thumbnail
