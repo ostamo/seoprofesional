@@ -268,9 +268,25 @@ sections:
       text: Hacer Crecer tu Negocio 10 veces más Rapido
       color: text-dark
     subtitle: Publicidad en Google Ads (SEM)
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      El SEO lleva tiempo, pero con campañas bien optimizadas en Google Ads,
+      puedes obtener resultados inmediatos. Ofrecemos gestión y optimización de
+      campañas para aumentar el tráfico y las conversiones.
+
+
+      *   Configuración y optimización de campañas de Google Ads
+
+
+      *   Análisis y segmentación de audiencia
+
+
+      *   Creación de anuncios efectivos
+
+
+      *   Monitoreo y optimización continua
+
+
+
     actions:
       - type: Button
         label: Get started
