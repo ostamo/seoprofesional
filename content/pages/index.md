@@ -468,7 +468,7 @@ sections:
         type: FeaturedItem
       - title: Diseño Gráfico y Branding
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: Identidad Digital
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
