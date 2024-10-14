@@ -321,7 +321,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Auditorías Web y Consultoría de UX/UI
       color: text-dark
       styles:
         self:
