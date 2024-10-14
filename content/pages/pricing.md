@@ -296,7 +296,7 @@ sections:
           - >-
             Integración con herramientas de marketing (email marketing,
             chatbots).
-          - ''
+          - Módulo de testimonios o secciones adicionales.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
