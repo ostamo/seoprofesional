@@ -204,9 +204,10 @@ sections:
           Este esquema de tarifas refleja el mercado colombiano, ofreciendo
           opciones accesibles para diferentes tipos de negocios, desde
           emprendedores hasta grandes empresas.
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          **Descuentos por lanzamiento**: Ofrecemos un descuento promocional del
+          20-30% para los primeros clientes.
+
         features:
           - Feature one
           - Feature two
