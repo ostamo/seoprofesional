@@ -336,6 +336,7 @@ sections:
           - Integración con plataformas de pago.
           - Análisis avanzado con Google Analytics.
           - ''
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
