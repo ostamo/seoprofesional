@@ -176,6 +176,7 @@ sections:
           - Soporte técnico continuo y actualizaciones.
           - Estrategia avanzada de marketing digital.
           - 'Integración de plugins avanzados (CRM, chatbots, email marketing).'
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
