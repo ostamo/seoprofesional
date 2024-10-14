@@ -333,7 +333,7 @@ sections:
           - >-
             Funcionalidades avanzadas de e-commerce para ventas de un solo
             producto o servicio.
-          - Feature three
+          - Integración con plataformas de pago.
           - Feature four
         image:
           type: ImageBlock
