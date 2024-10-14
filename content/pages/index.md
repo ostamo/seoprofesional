@@ -294,6 +294,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: 322-957-6512
       - type: Link
         label: See Tutorials
         url: /
