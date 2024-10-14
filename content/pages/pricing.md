@@ -290,7 +290,7 @@ sections:
           productos/servicios específicos.
 
         features:
-          - Feature one
+          - Todo lo incluido en la versión básica.
           - Feature two
           - Feature three
           - Feature four
