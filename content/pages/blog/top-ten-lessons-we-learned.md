@@ -3,11 +3,14 @@ title: 10 Razones para que tu Negocio Tenga Presencia Digital en Colombia
 slug: top-ten-lessons-we-learned
 date: '2024-10-14'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  La transformación digital es clave para el éxito de cualquier empresa en
+  Colombia. Tener presencia digital no solo mejora la visibilidad y la
+  competitividad de tu negocio, sino que también te permite llegar a más
+  clientes, mejorar la experiencia del usuario y, en última instancia, aumentar
+  tus ventas. Si aún no lo has hecho, este es el momento de llevar tu negocio al
+  mundo digital.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/presencia-digital-en-colombia.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -25,7 +28,59 @@ styles:
     flexDirection: row
 type: PostLayout
 author: content/data/person1.json
+bottomSections:
+  - type: ImageGallerySection
+    subtitle: Patrocinios
+    images:
+      - type: ImageBlock
+        url: /images/empathy-logo.svg
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/wellster-logo.svg
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/vise-logo.svg
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/telus-logo.svg
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/contenful-logo.svg
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/sanity-logo.svg
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/rangle-logo.svg
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 ---
+<div style="text-align: center">![](/images/presencia-digital-en-colombia.jpg)</div>
+
 En la era digital, contar con una presencia en línea ya no es una opción, es una necesidad. En Colombia, el crecimiento del comercio electrónico y el uso masivo de internet ofrecen grandes oportunidades para que las empresas lleguen a más clientes y se adapten a las nuevas tendencias de consumo. Si aún no has digitalizado tu negocio, aquí te presentamos **10 razones** por las cuales es esencial tener presencia digital en Colombia.
 
 ## 1. **Mayor Alcance y Visibilidad**
@@ -67,12 +122,3 @@ Comparado con mantener una tienda física, los costos de tener un negocio en lí
 ## 10. **Adaptación a las Nuevas Tendencias de Consumo**
 
 Cada vez más consumidores en Colombia prefieren investigar y comprar en línea. Las generaciones más jóvenes, como los **millennials y la Generación Z**, hacen la mayor parte de sus compras a través de internet. Adaptarte a esta tendencia garantiza que tu negocio siga siendo relevante en el futuro.
-
-
-
-### Conclusión
-
-La transformación digital es clave para el éxito de cualquier empresa en Colombia. Tener presencia digital no solo mejora la visibilidad y la competitividad de tu negocio, sino que también te permite llegar a más clientes, mejorar la experiencia del usuario y, en última instancia, aumentar tus ventas. Si aún no lo has hecho, este es el momento de llevar tu negocio al mundo digital.
-
-
-
