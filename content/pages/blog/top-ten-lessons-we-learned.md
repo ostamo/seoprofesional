@@ -29,7 +29,7 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
-![](/images/presencia-digital-en-colombia.jpg)En la era digital, contar con una presencia en línea ya no es una opción, es una necesidad. En Colombia, el crecimiento del comercio electrónico y el uso masivo de internet ofrecen grandes oportunidades para que las empresas lleguen a más clientes y se adapten a las nuevas tendencias de consumo. Si aún no has digitalizado tu negocio, aquí te presentamos **10 razones** por las cuales es esencial tener presencia digital en Colombia.
+En la era digital, contar con una presencia en línea ya no es una opción, es una necesidad. En Colombia, el crecimiento del comercio electrónico y el uso masivo de internet ofrecen grandes oportunidades para que las empresas lleguen a más clientes y se adapten a las nuevas tendencias de consumo. Si aún no has digitalizado tu negocio, aquí te presentamos **10 razones** por las cuales es esencial tener presencia digital en Colombia.
 
 ## 1. **Mayor Alcance y Visibilidad**
 
