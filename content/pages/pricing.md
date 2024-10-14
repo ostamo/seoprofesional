@@ -200,7 +200,10 @@ sections:
       - type: PricingPlan
         title: Servicios Adicionales
         price: Costos a medida o por hora
-        details: No credit card required
+        details: >-
+          Este esquema de tarifas refleja el mercado colombiano, ofreciendo
+          opciones accesibles para diferentes tipos de negocios, desde
+          emprendedores hasta grandes empresas.
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
