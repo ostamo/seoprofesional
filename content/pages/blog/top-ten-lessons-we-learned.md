@@ -3,9 +3,12 @@ title: 10 Razones para que tu Negocio Tenga Presencia Digital en Colombia
 slug: top-ten-lessons-we-learned
 date: '2024-10-14'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  La transformación digital es clave para el éxito de cualquier empresa en
+  Colombia. Tener presencia digital no solo mejora la visibilidad y la
+  competitividad de tu negocio, sino que también te permite llegar a más
+  clientes, mejorar la experiencia del usuario y, en última instancia, aumentar
+  tus ventas. Si aún no lo has hecho, este es el momento de llevar tu negocio al
+  mundo digital.
 featuredImage:
   url: /images/presencia-digital-en-colombia.jpg
   altText: Thumbnail
