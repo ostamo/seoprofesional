@@ -485,7 +485,7 @@ sections:
 
 
         image:
-          url: /images/posicionamiento_organico.jpg
+          url: /images/diseno-web-moderno.jpg
           altText: Maria Walters
           styles:
             self:
