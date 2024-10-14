@@ -327,11 +327,22 @@ sections:
         self:
           textAlign: left
     subtitle: Análisis Precisos
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Ofrecemos servicios de revisión y análisis de sitios web desde el punto de
+      vista de la experiencia de usuario (UX) y la interfaz de usuario (UI).
+      Proporcionamos recomendaciones para mejorar la usabilidad, aumentar las
+      conversiones y optimizar el rendimiento del sitio.
+
+
+      *   Evaluación de la estructura y diseño del sitio
+
+
+      *   Recomendaciones para mejorar la navegación y la experiencia de usuario
+
+
+      *   Consultoría para mejorar la tasa de conversión
+
+
     actions: []
     media:
       type: VideoBlock
