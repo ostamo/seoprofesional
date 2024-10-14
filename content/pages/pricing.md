@@ -130,7 +130,7 @@ sections:
         features:
           - Todo lo incluido en el plan básico.
           - De 6 a 10 páginas.
-          - Feature three
+          - SEO on-page avanzado.
           - Feature four
           - Feature five
         image:
