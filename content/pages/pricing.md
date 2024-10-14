@@ -245,8 +245,11 @@ sections:
         title: Landing Page Básica
         price: 'Desde $600,000 a $1,000,000 COP'
         details: >-
-          Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
-          Incluye Hosting y Dominio
+          Una landing page es un sitio web enfocado en lograr que los usuarios
+          realicen una acción específica o se conviertan en clientes. Estas
+          páginas son ideales para promocionar productos, servicios, artistas,
+          marcas personales o empresas. Ofrecemos diseños web de alta calidad
+          para asegurar resultados efectivos.
         description: >+
 
           emprendedores o pequeñas empresas que buscan una página promocional
