@@ -172,7 +172,7 @@ sections:
         features:
           - Todo lo incluido en el plan intermedio.
           - 10+ páginas o funcionalidades avanzadas.
-          - Feature three
+          - Tienda en línea completa con pasarelas de pago.
           - Feature four
         image:
           type: ImageBlock
