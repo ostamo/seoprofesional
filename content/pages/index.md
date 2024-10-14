@@ -442,7 +442,7 @@ sections:
 
     actions:
       - label: Contáctanos
-        url: /
+        url: 'tel:322-975-6512'
         icon: arrowRight
         iconPosition: right
         style: secondary
