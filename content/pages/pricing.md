@@ -124,9 +124,8 @@ sections:
       - title: Plan Intermedio
         price: '$2,500,000 a $3,500,000 COP'
         details: >-
-          Soporte y capacitación; Cuentas de correo corporativo ilimitados;
-          Botón WhatsApp; Incluye Hosting 25 GB y Dominio durante un año o 3
-          años
+          Soporte y capacitación; Cuentas de correo corporativo 10; Botón
+          WhatsApp; Incluye Hosting 25 GB y Dominio durante un año o 3 años
         description: >+
           **Ideal para**: empresas medianas o locales que desean mejorar su
           visibilidad online.
