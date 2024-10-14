@@ -131,7 +131,7 @@ sections:
           - Todo lo incluido en el plan básico.
           - De 6 a 10 páginas.
           - SEO on-page avanzado.
-          - Feature four
+          - Blog o sección de noticias.
           - Feature five
         image:
           url: /images/abstract-feature3.svg
