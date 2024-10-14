@@ -138,7 +138,7 @@ sections:
           - Optimización de velocidad y rendimiento.
           - Capacitación para uso del CMS.
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/plan-intermedio.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
