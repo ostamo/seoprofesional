@@ -83,7 +83,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Plan Básico
-        price: 1.000.000 a 1.500.000
+        price: ' Desde $1,000,000 a $1,500,000 COP'
         details: >-
           Soporte y capacitación; Cuentas de correo corporativo de 1 a 5; Botón
           WhatsApp; Incluye Hosting 5 GB y Dominio durante un año o 3 años
