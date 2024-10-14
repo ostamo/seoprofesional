@@ -189,6 +189,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
+            altText: 322-957-6512
         colors: bg-neutral-fg-dark
         styles:
           self:
