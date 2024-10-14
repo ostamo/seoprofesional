@@ -385,7 +385,7 @@ sections:
     title: null
     subtitle: Estrategias Y Mantenimiento
     items:
-      - title: Otros Servicios
+      - title: Email Marketing
         tagline: Herramientas de Fidelización
         subtitle: Email Marketing
         text: >+
