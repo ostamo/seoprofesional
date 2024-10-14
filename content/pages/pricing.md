@@ -244,7 +244,9 @@ sections:
       - type: PricingPlan
         title: Landing Page Básica
         price: 'Desde $600,000 a $1,000,000 COP'
-        details: No credit card required
+        details: >-
+          Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
+          Incluye Hosting y Dominio
         description: >+
 
           emprendedores o pequeñas empresas que buscan una página promocional
