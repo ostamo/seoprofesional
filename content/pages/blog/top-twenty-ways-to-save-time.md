@@ -1,5 +1,7 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: >-
+  Las 20 Mejores Formas para Ahorrar Tiempo en la Creación de tu Presencia
+  Digital
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
