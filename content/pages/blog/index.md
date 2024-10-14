@@ -2,7 +2,7 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 3
-enableSearch: false
+enableSearch: true
 topSections:
   - title:
       text: Publicación Destacada
