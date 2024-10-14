@@ -335,7 +335,9 @@ sections:
             producto o servicio.
           - Integración con plataformas de pago.
           - Análisis avanzado con Google Analytics.
-          - ''
+          - >-
+            Estrategia optimizada para la conversión con diseño atractivo y
+            elementos dinámicos.
           - ''
         image:
           type: ImageBlock
