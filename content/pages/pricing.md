@@ -161,7 +161,10 @@ sections:
       - type: PricingPlan
         title: Plan Avanzado
         price: 'Desde $4,500,000 a $6,500,000 COP'
-        details: No credit card required
+        details: >-
+          Soporte y capacitación; Cuentas de correo corporativo ilimitadas;
+          Botón WhatsApp; Incluye Hosting 75 GB y Dominio durante un año o 3
+          años
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
