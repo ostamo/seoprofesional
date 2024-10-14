@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Diseño Web
 slug: /
 sections:
   - type: GenericSection
