@@ -428,7 +428,7 @@ sections:
         type: FeaturedItem
       - title: Soporte Continuo
         tagline: Mantenimiento y Optimización
-        subtitle: Mantenimiento Continuo
+        subtitle: Seguridad
         text: >+
           Si necesitas soporte continuo para mantener su sitio web actualizado y
           seguro. Ofrecemos:
