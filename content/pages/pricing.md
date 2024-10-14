@@ -217,7 +217,9 @@ sections:
             dependiendo del nivel de competencia y el alcance del trabajo de
             SEO.
           - 'Rebranding o rediseño: Desde $3,000,000 COP dependiendo del alcance.'
-          - Feature four
+          - >-
+            Creación de contenido: Desde $100,000 a $500,000 COP por página o
+            artículo de blog.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
