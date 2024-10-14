@@ -296,6 +296,7 @@ sections:
           - >-
             Integración con herramientas de marketing (email marketing,
             chatbots).
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
