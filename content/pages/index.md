@@ -25,15 +25,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/diseno-web.jpg
       altText: Unblock your team boost your time to production preview
