@@ -222,7 +222,7 @@ sections:
             artículo de blog.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/servicios-adicionales.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
