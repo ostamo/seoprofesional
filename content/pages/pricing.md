@@ -174,6 +174,7 @@ sections:
           - 10+ páginas o funcionalidades avanzadas.
           - Tienda en línea completa con pasarelas de pago.
           - Soporte técnico continuo y actualizaciones.
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
