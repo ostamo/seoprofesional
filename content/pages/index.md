@@ -383,7 +383,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Email Marketing
+    subtitle: Estrategias Y Mantenimiento
     items:
       - title: ''
         tagline: Herramientas de Fidelización
