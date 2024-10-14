@@ -293,7 +293,9 @@ sections:
           - Todo lo incluido en la versión básica.
           - Optimización de velocidad y rendimiento.
           - Diseño enfocado en la conversión (con CTA optimizados).
-          - Feature four
+          - >-
+            Integración con herramientas de marketing (email marketing,
+            chatbots).
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
