@@ -281,7 +281,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Landing Page Intermedia
-        price: Free
+        price: ' Desde $1,200,000 a $1,800,000 COP'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
