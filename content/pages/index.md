@@ -383,11 +383,11 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Email Marketing
+    subtitle: Estrategias Y Mantenimiento
     items:
       - title: ''
         tagline: Herramientas de Fidelización
-        subtitle: Estrategias de Ventas
+        subtitle: Email Marketing
         text: >+
           Ayudamos a los clientes a conectar con su audiencia a través de
           estrategias de email marketing, una herramienta poderosa para
