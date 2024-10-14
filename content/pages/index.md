@@ -295,13 +295,6 @@ sections:
         iconPosition: right
         style: secondary
         altText: 322-957-6512
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/hero3.svg
