@@ -348,7 +348,7 @@ sections:
       type: VideoBlock
       title: Diseño Web
       url: 'https://youtu.be/qkNEaPB7ogs'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
