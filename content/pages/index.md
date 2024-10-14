@@ -25,15 +25,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/diseno-web.jpg
       altText: Unblock your team boost your time to production preview
@@ -113,15 +104,15 @@ sections:
       - title: Posicionamiento SEO
         subtitle: Aparecer en las Primeras Posiciones de Google y Bing
         text: >+
-          <div style="text-align: left">No basta con tener un sitio web bonito;
-          también debe ser visible para tu audiencia. Implementamos estrategias
-          SEO avanzadas para posicionar tu sitio en los primeros resultados de
-          Google. Desde la optimización técnica hasta la creación de contenido
-          relevante, nos encargamos de que tu página sea encontrada por los
-          clientes que más te interesan.</div>
+          <div style="text-align: left">###### No basta con tener un sitio web
+          bonito; también debe ser visible para tu audiencia. Implementamos
+          estrategias SEO avanzadas para posicionar tu sitio en los primeros
+          resultados de Google. Desde la optimización técnica hasta la creación
+          de contenido relevante, nos encargamos de que tu página sea encontrada
+          por los clientes que más te interesan.</div>
 
 
-          *   Análisis de palabras clave y competencia
+          Análisis de palabras clave y competencia
 
 
           *   Optimización On-page (metaetiquetas, URL, estructura)
@@ -243,8 +234,7 @@ sections:
         type: ImageBlock
       - altText: Sanity logo
         type: ImageBlock
-      - url: /images/logo-gydconsulting.PNG
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -416,13 +406,6 @@ sections:
         style: secondary
         type: Button
         altText: 322 957 6512
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/crecer-web.jpg
       altText: Fun feature preview
@@ -458,19 +441,13 @@ sections:
       *   Material gráfico para campañas publicitarias o redes sociales
 
     actions:
-      - label: Get started
-        url: /
+      - label: Contáctanos
+        url: 'tel:322-975-6512'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+        altText: 322-957-6512
     media:
       url: /images/concepto-de-diseño-web.jpg
       altText: Dope design preview
