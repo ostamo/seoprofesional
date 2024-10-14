@@ -663,7 +663,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Estrategias personalizadas
+      - title: Estrategias Avansadas
         tagline: Resultados comprobados
         subtitle: Soporte continuo
         text: |+
