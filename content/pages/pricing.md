@@ -257,7 +257,7 @@ sections:
           - Optimización básica para SEO.
           - Un solo formulario de contacto.
           - Integración de redes sociales.
-          - ''
+          - Certificado SSL.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
