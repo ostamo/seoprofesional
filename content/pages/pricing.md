@@ -17,7 +17,7 @@ sections:
           Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
           Incluye Hosting y Dominio
         description: |+
-          # Desde $700.000 a $6.500.000
+          # Desde $600.000 a $6.500.000
 
         features:
           - >-
