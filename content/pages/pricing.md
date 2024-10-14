@@ -61,7 +61,7 @@ sections:
             Integración de E-commerce: Creación de tiendas en línea seguras y
             funcionales, listas para vender productos o servicios.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/precios-de-paginas-web.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
