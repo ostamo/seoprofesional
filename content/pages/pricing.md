@@ -86,7 +86,7 @@ sections:
         price: 1.000.000 a 1.500.000
         details: >-
           Soporte y capacitación; Cuentas de correo corporativo de 1 a 5; Botón
-          WhatsApp; Incluye Hosting 5gb y Dominio durante un año o 3 años
+          WhatsApp; Incluye Hosting 5 GB y Dominio durante un año o 3 años
         description: >+
           Ideal para: pequeños negocios, emprendedores o freelancers que
           necesitan una presencia básica en línea.
