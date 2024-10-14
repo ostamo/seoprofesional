@@ -142,12 +142,13 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
-            url: /
+          - label: Contáctanos
+            url: 'tel:322-957-6512'
             icon: arrowRight
             iconPosition: right
             style: secondary
             type: Button
+            altText: 322-957-6512
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -183,11 +184,12 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try for free
-            url: /
+            label: Contáctanos
+            url: 'tel:322-957-6512'
             icon: arrowRight
             iconPosition: right
             style: secondary
+            altText: 322-957-6512
         colors: bg-neutral-fg-dark
         styles:
           self:
