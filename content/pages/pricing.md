@@ -292,7 +292,7 @@ sections:
         features:
           - Todo lo incluido en la versión básica.
           - Optimización de velocidad y rendimiento.
-          - Feature three
+          - Diseño enfocado en la conversión (con CTA optimizados).
           - Feature four
         image:
           type: ImageBlock
