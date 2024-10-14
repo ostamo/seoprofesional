@@ -431,9 +431,7 @@ sections:
         subtitle: Mantenimiento Continuo
         text: >+
           Si necesitas soporte continuo para mantener su sitio web actualizado y
-          seguro. Ofrecemos un servicio de mantenimiento regular que incluye
-          actualizaciones de plugins, revisión de seguridad y pequeñas mejoras o
-          cambios en el diseño.
+          seguro. Ofrecemos:
 
 
           *   Actualización de contenidos
@@ -446,7 +444,6 @@ sections:
 
 
           *   Mejora de rendimiento y optimización técnica continua
-
 
         image:
           url: /images/person-placeholder-light.png
