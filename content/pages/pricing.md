@@ -212,7 +212,10 @@ sections:
           - >-
             Mantenimiento mensual: Desde $200.000 a $800.000 COP/mes dependiendo
             del tamaño y necesidades del sitio.
-          - Feature two
+          - >-
+            Optimización SEO continua: Desde $500,000 a $2,000,000 COP/mes
+            dependiendo del nivel de competencia y el alcance del trabajo de
+            SEO.
           - Feature three
           - Feature four
         image:
