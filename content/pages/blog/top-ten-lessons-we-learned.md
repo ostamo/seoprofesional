@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: 10 Razones para que tu Negocio Tenga Presencia Digital en Colombia
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
