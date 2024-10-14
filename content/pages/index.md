@@ -426,7 +426,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: Soporte Continuo
         tagline: Mantenimiento y Actualización Web
         subtitle: Mantenimiento Continuo
         text: >+
