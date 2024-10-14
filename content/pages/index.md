@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Diseño Web
 slug: /
 sections:
   - type: GenericSection
@@ -318,6 +318,59 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Auditorías Web y Consultoría de UX/UI
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Análisis Precisos
+    text: >+
+      Ofrecemos servicios de revisión y análisis de sitios web desde el punto de
+      vista de la experiencia de usuario (UX) y la interfaz de usuario (UI).
+      Proporcionamos recomendaciones para mejorar la usabilidad, aumentar las
+      conversiones y optimizar el rendimiento del sitio.
+
+
+      *   Evaluación de la estructura y diseño del sitio
+
+
+      *   Recomendaciones para mejorar la navegación y la experiencia de usuario
+
+
+      *   Consultoría para mejorar la tasa de conversión
+
+
+    actions: []
+    media:
+      type: VideoBlock
+      title: Diseño Web
+      url: 'https://youtu.be/qkNEaPB7ogs'
+      autoplay: false
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
