@@ -447,6 +447,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: 322-957-6512
     media:
       url: /images/concepto-de-diseño-web.jpg
       altText: Dope design preview
