@@ -385,9 +385,9 @@ sections:
     title: null
     subtitle: Estrategias Y Mantenimiento
     items:
-      - title: ''
+      - title: Email Marketing
         tagline: Herramientas de Fidelización
-        subtitle: Email Marketing
+        subtitle: Diseño y Automatización
         text: >+
           Ayudamos a los clientes a conectar con su audiencia a través de
           estrategias de email marketing, una herramienta poderosa para
@@ -426,9 +426,9 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
-        tagline: Mantenimiento y Actualización Web
-        subtitle: Mantenimiento Continuo
+      - title: Soporte Continuo
+        tagline: Mantenimiento y Optimización
+        subtitle: Seguridad
         text: >+
           Si necesitas soporte continuo para mantener su sitio web actualizado y
           seguro. Ofrecemos:
@@ -467,7 +467,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Diseño Gráfico y Branding
-        tagline: Testimonial 3
+        tagline: Identidad Digital
         subtitle: Identidad Digital
         text: >+
           El diseño visual es clave para la identidad digital. ofrecemos:
@@ -486,7 +486,7 @@ sections:
 
         image:
           url: /images/diseno-web-moderno.jpg
-          altText: Maria Walters
+          altText: Identidad Digital
           styles:
             self:
               borderRadius: full
@@ -565,36 +565,6 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
     elementId: null
     variant: next-prev-nav
     colors: bg-light-fg-dark
@@ -617,10 +587,7 @@ sections:
         subtitle: Aumento de las Experiencias Digitales
         text: >
           Sabemos que cada negocio es único, por eso ofrecemos soluciones
-          personalizadas que se ajustan a tus metas y presupuesto. Nos enfocamos
-          en crear experiencias digitales que no solo atraen visitas, sino que
-          también generan resultados medibles, aumentando tus conversiones y
-          visibilidad en el mercado.
+          personalizadas que se ajustan a tus metas y presupuesto. 
         image:
           url: /images/soluciones-personalizadas.jpg
           altText: Placeholder Image
@@ -663,7 +630,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Estrategias personalizadas
+      - title: Estrategias Avansadas
         tagline: Resultados comprobados
         subtitle: Soporte continuo
         text: |+
