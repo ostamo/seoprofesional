@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Descarga de Precios",
-                    "url": "https://drive.google.com/drive/my-drive",
+                    "url": "https://drive.google.com/drive/u/1/my-drive",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
