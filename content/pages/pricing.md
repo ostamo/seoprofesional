@@ -179,7 +179,7 @@ sections:
           - Optimización avanzada de velocidad de carga.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/plan-avanzado.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
