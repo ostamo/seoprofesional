@@ -469,10 +469,21 @@ sections:
       - title: Diseño Gráfico y Branding
         tagline: Testimonial 3
         subtitle: Identidad Digital
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          El diseño visual es clave para la identidad digital. ofrecemos:
+
+
+          *   Creación de identidad visual de marca (logotipos, paleta de
+          colores, tipografía)
+
+
+          *   Diseño de banners, infografías, y elementos visuales
+
+
+          *   Material gráfico para campañas publicitarias o redes sociales
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
