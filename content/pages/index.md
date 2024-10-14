@@ -427,7 +427,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Soporte Continuo
-        tagline: Mantenimiento y Actualización Web
+        tagline: Mantenimiento y Optimización
         subtitle: Mantenimiento Continuo
         text: >+
           Si necesitas soporte continuo para mantener su sitio web actualizado y
