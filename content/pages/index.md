@@ -485,7 +485,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/posicionamiento_organico.jpg
           altText: Maria Walters
           styles:
             self:
