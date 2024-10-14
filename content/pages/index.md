@@ -426,11 +426,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          Mantenimiento ContinuoSi necesitas soporte continuo para mantener su
-          sitio web actualizado y seguro. Ofrecemos un servicio de mantenimiento
-          regular que incluye actualizaciones de plugins, revisión de seguridad
-          y pequeñas mejoras o cambios en el diseño.
+      - title: ''
         tagline: Mantenimiento y Actualización Web
         subtitle: 'John Doe, Company'
         text: >-
