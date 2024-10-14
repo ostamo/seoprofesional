@@ -330,7 +330,9 @@ sections:
 
         features:
           - Todo lo incluido en la versión intermedia.
-          - Feature two
+          - >-
+            Funcionalidades avanzadas de e-commerce para ventas de un solo
+            producto o servicio.
           - Feature three
           - Feature four
         image:
