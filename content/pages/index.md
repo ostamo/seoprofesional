@@ -297,7 +297,7 @@ sections:
         altText: 322-957-6512
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/crecer-web.jpg
       altText: Dope design preview
     badge:
       type: Badge
