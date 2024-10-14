@@ -340,7 +340,7 @@ sections:
             elementos dinámicos.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/landipange_avanzada.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
