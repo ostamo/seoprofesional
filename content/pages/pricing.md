@@ -243,7 +243,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Landing Page Básica
-        price: Free
+        price: 'Desde $600,000 a $1,000,000 COP'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
