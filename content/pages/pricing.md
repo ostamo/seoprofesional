@@ -322,8 +322,8 @@ sections:
         title: Landing Page Avanzada
         price: 'Desde $2,000,000 a $3,000,000 COP'
         details: >-
-          Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
-          Incluye Hosting y Dominio
+          Soporte y capacitación; Cuentas de correo corporativo ilimitadas;
+          Botón WhatsApp; Incluye Hosting y Dominio de 75 GB
         description: >+
           **Ideal para**: negocios que buscan una página promocional con alto
           enfoque en conversiones o ventas directas.
