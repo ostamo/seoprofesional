@@ -171,7 +171,7 @@ sections:
 
         features:
           - Todo lo incluido en el plan intermedio.
-          - Feature two
+          - 10+ páginas o funcionalidades avanzadas.
           - Feature three
           - Feature four
         image:
