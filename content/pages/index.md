@@ -298,7 +298,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/crecer-web.jpg
-      altText: Dope design preview
+      altText: Crecimiento en la Presencia Digital
     badge:
       type: Badge
       label: Beneficios Clave
