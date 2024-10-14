@@ -617,10 +617,7 @@ sections:
         subtitle: Aumento de las Experiencias Digitales
         text: >
           Sabemos que cada negocio es único, por eso ofrecemos soluciones
-          personalizadas que se ajustan a tus metas y presupuesto. Nos enfocamos
-          en crear experiencias digitales que no solo atraen visitas, sino que
-          también generan resultados medibles, aumentando tus conversiones y
-          visibilidad en el mercado.
+          personalizadas que se ajustan a tus metas y presupuesto. 
         image:
           url: /images/soluciones-personalizadas.jpg
           altText: Placeholder Image
