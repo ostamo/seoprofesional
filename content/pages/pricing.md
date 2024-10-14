@@ -142,7 +142,7 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Contáctanos
             url: /
             icon: arrowRight
             iconPosition: right
