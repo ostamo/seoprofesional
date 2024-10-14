@@ -406,13 +406,6 @@ sections:
         style: secondary
         type: Button
         altText: 322 957 6512
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/crecer-web.jpg
       altText: Fun feature preview
