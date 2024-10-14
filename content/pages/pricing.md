@@ -122,7 +122,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Plan Intermedio
-        price: Plan Intermedio
+        price: '$2,500,000 a $3,500,000 COP'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
