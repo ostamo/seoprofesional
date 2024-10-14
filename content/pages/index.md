@@ -289,7 +289,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Contáctanos
         url: /
         icon: arrowRight
         iconPosition: right
