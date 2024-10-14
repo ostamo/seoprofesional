@@ -133,6 +133,7 @@ sections:
           - SEO on-page avanzado.
           - Blog o sección de noticias.
           - Optimización de velocidad y rendimiento.
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
