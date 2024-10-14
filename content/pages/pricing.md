@@ -321,7 +321,9 @@ sections:
       - type: PricingPlan
         title: Landing Page Avanzada
         price: 'Desde $2,000,000 a $3,000,000 COP'
-        details: No credit card required
+        details: >-
+          Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
+          Incluye Hosting y Dominio
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
