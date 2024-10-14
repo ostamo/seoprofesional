@@ -1,7 +1,7 @@
 ---
 title: Los Primeros Pasos para Empezar a Tener una Presencia Digital
 slug: life-of-our-development-team
-date: '2024-10-27'
+date: '2024-10-14'
 excerpt: >-
   Empezar a construir una presencia digital es un paso crucial para cualquier
   negocio en la era moderna. Al seguir estos primeros pasos —definiendo tus
