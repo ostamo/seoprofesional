@@ -256,7 +256,7 @@ sections:
           - Diseño simple y responsivo.
           - Optimización básica para SEO.
           - Un solo formulario de contacto.
-          - Feature four
+          - Integración de redes sociales.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
