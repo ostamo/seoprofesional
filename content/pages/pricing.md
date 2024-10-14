@@ -285,9 +285,10 @@ sections:
         details: >-
           Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
           Incluye Hosting y Dominio
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          **Ideal para**: empresas que buscan capturar leads o promocionar
+          productos/servicios específicos.
+
         features:
           - Feature one
           - Feature two
