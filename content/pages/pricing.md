@@ -254,7 +254,7 @@ sections:
 
         features:
           - Diseño simple y responsivo.
-          - Feature two
+          - Optimización básica para SEO.
           - Feature three
           - Feature four
         image:
