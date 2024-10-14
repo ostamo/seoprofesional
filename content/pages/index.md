@@ -467,7 +467,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Diseño Gráfico y Branding
-        tagline: Testimonial 3
+        tagline: Identidad Digital
         subtitle: Identidad Digital
         text: >+
           El diseño visual es clave para la identidad digital. ofrecemos:
