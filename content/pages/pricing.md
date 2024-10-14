@@ -253,7 +253,7 @@ sections:
           simple y efectiva.
 
         features:
-          - Feature one
+          - Diseño simple y responsivo.
           - Feature two
           - Feature three
           - Feature four
