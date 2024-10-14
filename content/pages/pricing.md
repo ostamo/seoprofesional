@@ -320,7 +320,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Landing Page Avanzada
-        price: Free
+        price: 'Desde $2,000,000 a $3,000,000 COP'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
