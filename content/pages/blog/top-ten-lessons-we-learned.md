@@ -30,7 +30,7 @@ type: PostLayout
 author: content/data/person1.json
 bottomSections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Patrocinios
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
