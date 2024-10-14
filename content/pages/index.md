@@ -441,7 +441,7 @@ sections:
       *   Material gráfico para campañas publicitarias o redes sociales
 
     actions:
-      - label: Get started
+      - label: Contáctanos
         url: /
         icon: arrowRight
         iconPosition: right
