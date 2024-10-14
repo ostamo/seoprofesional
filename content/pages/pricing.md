@@ -255,7 +255,7 @@ sections:
         features:
           - Diseño simple y responsivo.
           - Optimización básica para SEO.
-          - Feature three
+          - Un solo formulario de contacto.
           - Feature four
         image:
           type: ImageBlock
