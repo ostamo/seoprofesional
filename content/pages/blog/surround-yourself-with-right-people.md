@@ -2,7 +2,14 @@
 title: Rodearte de la Gente Adecuada para Mejorar tu Presencia Digital
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
-excerpt: "Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. DoTop 20 Ways to Save Time at Work This YearNina Mercado|Mar 25, 2023Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia consequatur cum inventore voluptas sed impedit asperiores!Diseño Web y PosicionamientoproductosDiseño WebPreciosPosicionamientoSEO-posicionamientocarrera 21 65-55BlogTermsPrivacyPowered by\_Netlify CreateExcerptnec sed facilisis nibh."
+excerpt: >-
+  Para tener una presencia digital sólida y competitiva, necesitas rodearte de
+  un equipo profesional que comprenda las diferentes áreas del marketing y la
+  tecnología. Contar con el apoyo de especialistas en SEO, diseño web, redes
+  sociales, publicidad digital y análisis de datos te permitirá mejorar
+  continuamente tu estrategia y lograr los resultados deseados. No intentes
+  hacerlo todo por tu cuenta; rodearte de la gente adecuada es clave para el
+  éxito de tu negocio en el entorno digital.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
