@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "https://drive.google.com/drive/my-drive",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
