@@ -216,7 +216,7 @@ sections:
             Optimización SEO continua: Desde $400,000 a $2,000,000 COP/mes
             dependiendo del nivel de competencia y el alcance del trabajo de
             SEO.
-          - Feature three
+          - 'Rebranding o rediseño: Desde $3,000,000 COP dependiendo del alcance.'
           - Feature four
         image:
           type: ImageBlock
