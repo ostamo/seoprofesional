@@ -2,9 +2,7 @@
 title: Rodearte de la Gente Adecuada para Mejorar tu Presencia Digital
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: "Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. DoTop 20 Ways to Save Time at Work This YearNina Mercado|Mar 25, 2023Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia consequatur cum inventore voluptas sed impedit asperiores!Diseño Web y PosicionamientoproductosDiseño WebPreciosPosicionamientoSEO-posicionamientocarrera 21 65-55BlogTermsPrivacyPowered by\_Netlify CreateExcerptnec sed facilisis nibh."
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
