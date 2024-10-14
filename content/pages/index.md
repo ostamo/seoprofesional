@@ -347,7 +347,7 @@ sections:
     media:
       type: VideoBlock
       title: Diseño Web
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/qkNEaPB7ogs'
       autoplay: true
       loop: true
       muted: true
