@@ -324,9 +324,10 @@ sections:
         details: >-
           Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
           Incluye Hosting y Dominio
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          **Ideal para**: negocios que buscan una página promocional con alto
+          enfoque en conversiones o ventas directas.
+
         features:
           - Feature one
           - Feature two
