@@ -9,7 +9,7 @@ excerpt: >-
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
   consequatur cum inventore voluptas sed impedit asperiores!
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/gente-adecuada.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
