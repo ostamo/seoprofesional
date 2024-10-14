@@ -177,7 +177,6 @@ sections:
           - Estrategia avanzada de marketing digital.
           - 'Integración de plugins avanzados (CRM, chatbots, email marketing).'
           - Optimización avanzada de velocidad de carga.
-          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
