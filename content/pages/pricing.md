@@ -329,7 +329,7 @@ sections:
           enfoque en conversiones o ventas directas.
 
         features:
-          - Feature one
+          - Todo lo incluido en la versión intermedia.
           - Feature two
           - Feature three
           - Feature four
