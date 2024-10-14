@@ -234,8 +234,7 @@ sections:
         type: ImageBlock
       - altText: Sanity logo
         type: ImageBlock
-      - url: /images/logo-gydconsulting.PNG
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
