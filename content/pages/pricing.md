@@ -121,7 +121,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+      - title: Plan Intermedio
         price: Plan Intermedio
         details: per month
         description: >-
