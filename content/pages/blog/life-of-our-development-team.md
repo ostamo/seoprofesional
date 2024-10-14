@@ -26,7 +26,9 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
-En la actualidad, tener una **presencia digital** es esencial para cualquier negocio que quiera crecer y mantenerse competitivo. Si estás pensando en iniciar tu camino en el mundo digital, hay ciertos pasos básicos que debes seguir para asegurar que tu negocio tenga una base sólida en internet. A continuación, te explicamos cómo empezar a construir una presencia digital efectiva.
+En la actualidad, tener una **presencia digital** es esencial para cualquier negocio que quiera crecer y mantenerse competitivo. Si estás pensando en iniciar tu camino en el mundo digital, hay ciertos pasos básicos que debes seguir para asegurar que tu negocio tenga una base sólida en internet. A continuación, te explicamos cómo empezar a construir una presencia digital efectiv.a
+
+![](/images/los-primeros-pasos.jpg)
 
 ## 1. **Define tu Objetivo**
 
@@ -103,6 +105,3 @@ En el mundo digital, la **atención al cliente** es tan importante como en el pr
 ## 10. **Sé Consistente**
 
 Finalmente, la clave para mantener una presencia digital sólida es la **consistencia**. Actualiza tu contenido regularmente, publica en redes sociales con frecuencia y mantén tu sitio web optimizado. La presencia digital es un esfuerzo continuo, y la consistencia en la calidad y cantidad de tu contenido y comunicación es fundamental para el éxito a largo plazo.
-
-
-
