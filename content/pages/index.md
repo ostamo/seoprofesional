@@ -429,10 +429,25 @@ sections:
       - title: ''
         tagline: Mantenimiento y Actualización Web
         subtitle: Mantenimiento Continuo
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Si necesitas soporte continuo para mantener su sitio web actualizado y
+          seguro. Ofrecemos un servicio de mantenimiento regular que incluye
+          actualizaciones de plugins, revisión de seguridad y pequeñas mejoras o
+          cambios en el diseño.
+
+
+          *   Actualización de contenidos
+
+
+          *   Corrección de errores y bugs
+
+
+          *   Monitorización y backups de seguridad
+
+
+          *   Mejora de rendimiento y optimización técnica continua
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
