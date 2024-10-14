@@ -161,7 +161,7 @@ sections:
         type: PricingPlan
       - type: PricingPlan
         title: Plan Avanzado
-        price: Free
+        price: 'Desde $4,500,000 a $6,500,000 COP'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
