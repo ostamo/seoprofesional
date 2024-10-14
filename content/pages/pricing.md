@@ -334,7 +334,7 @@ sections:
             Funcionalidades avanzadas de e-commerce para ventas de un solo
             producto o servicio.
           - Integración con plataformas de pago.
-          - Feature four
+          - Análisis avanzado con Google Analytics.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
