@@ -128,7 +128,7 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         features:
-          - Feature one
+          - Todo lo incluido en el plan básico.
           - Feature two
           - Feature three
           - Feature four
