@@ -338,7 +338,6 @@ sections:
           - >-
             Estrategia optimizada para la conversión con diseño atractivo y
             elementos dinámicos.
-          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
