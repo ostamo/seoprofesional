@@ -104,12 +104,12 @@ sections:
       - title: Posicionamiento SEO
         subtitle: Aparecer en las Primeras Posiciones de Google y Bing
         text: >+
-          <div style="text-align: left">###### No basta con tener un sitio web
-          bonito; también debe ser visible para tu audiencia. Implementamos
-          estrategias SEO avanzadas para posicionar tu sitio en los primeros
-          resultados de Google. Desde la optimización técnica hasta la creación
-          de contenido relevante, nos encargamos de que tu página sea encontrada
-          por los clientes que más te interesan.</div>
+          <div style="text-align: left">No basta con tener un sitio web bonito;
+          también debe ser visible para tu audiencia. Implementamos estrategias
+          SEO avanzadas para posicionar tu sitio en los primeros resultados de
+          Google. Desde la optimización técnica hasta la creación de contenido
+          relevante, nos encargamos de que tu página sea encontrada por los
+          clientes que más te interesan.</div>
 
 
           Análisis de palabras clave y competencia
