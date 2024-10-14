@@ -267,7 +267,7 @@ sections:
       type: TitleBlock
       text: Hacer Crecer tu Negocio 10 veces más Rapido
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Publicidad en Google Ads (SEM)
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
