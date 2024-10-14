@@ -486,7 +486,7 @@ sections:
 
         image:
           url: /images/diseno-web-moderno.jpg
-          altText: Maria Walters
+          altText: Identidad Digital
           styles:
             self:
               borderRadius: full
