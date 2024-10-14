@@ -387,7 +387,7 @@ sections:
     items:
       - title: Email Marketing
         tagline: Herramientas de Fidelización
-        subtitle: Email Marketing
+        subtitle: Diseño y Automatización
         text: >+
           Ayudamos a los clientes a conectar con su audiencia a través de
           estrategias de email marketing, una herramienta poderosa para
