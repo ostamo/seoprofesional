@@ -8,7 +8,7 @@ topSections:
       text: Publicación Destacada
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Importancia de la Presencia Digital
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
