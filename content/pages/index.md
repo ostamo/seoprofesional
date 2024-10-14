@@ -102,7 +102,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Posicionamiento SEO
-        subtitle: Aparecer en las Primeras Posiciones de Google y Bing
+        subtitle: Primeras Posiciones en Google y Bing
         text: >+
           <div style="text-align: left">No basta con tener un sitio web bonito;
           también debe ser visible para tu audiencia. Implementamos estrategias
