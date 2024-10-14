@@ -446,7 +446,7 @@ sections:
           *   Mejora de rendimiento y optimización técnica continua
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/concepto-de-diseño-web.jpg
           altText: John Doe
           styles:
             self:
