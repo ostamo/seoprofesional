@@ -291,7 +291,7 @@ sections:
 
         features:
           - Todo lo incluido en la versión básica.
-          - Feature two
+          - Optimización de velocidad y rendimiento.
           - Feature three
           - Feature four
         image:
