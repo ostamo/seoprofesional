@@ -43,7 +43,7 @@
             "altText": "ARchivos",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Descarga de Precios",
                     "url": "https://drive.google.com/drive/my-drive",
                     "icon": "arrowRight",
                     "iconPosition": "right",
