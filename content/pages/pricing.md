@@ -124,9 +124,10 @@ sections:
       - title: Plan Intermedio
         price: '$2,500,000 a $3,500,000 COP'
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          **Ideal para**: empresas medianas o locales que desean mejorar su
+          visibilidad online.
+
         features:
           - Todo lo incluido en el plan básico.
           - De 6 a 10 páginas.
