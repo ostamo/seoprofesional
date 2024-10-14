@@ -260,7 +260,7 @@ sections:
           - Certificado SSL.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/landiange_basica.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
