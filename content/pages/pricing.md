@@ -100,7 +100,7 @@ sections:
           - Integración de redes sociales.
           - Certificado SSL.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/plan-basico.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
