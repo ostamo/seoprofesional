@@ -199,7 +199,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Servicios Adicionales
-        price: Free
+        price: Costos a medida o por hora
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
