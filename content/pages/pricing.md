@@ -132,7 +132,7 @@ sections:
           - De 6 a 10 páginas.
           - SEO on-page avanzado.
           - Blog o sección de noticias.
-          - Feature five
+          - Optimización de velocidad y rendimiento.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
