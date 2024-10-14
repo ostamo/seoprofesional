@@ -170,7 +170,7 @@ sections:
           e-commerce o soluciones más completas.
 
         features:
-          - Feature one
+          - Todo lo incluido en el plan intermedio.
           - Feature two
           - Feature three
           - Feature four
