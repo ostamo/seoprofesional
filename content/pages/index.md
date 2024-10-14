@@ -265,7 +265,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Hacer Crecer tu Negocio 10 veces más Rapido
       color: text-dark
     subtitle: Be in good company
     text: >
