@@ -428,7 +428,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: Mantenimiento y Actualización Web
-        subtitle: 'John Doe, Company'
+        subtitle: Mantenimiento Continuo
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
