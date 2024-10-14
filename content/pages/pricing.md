@@ -245,9 +245,11 @@ sections:
         title: Landing Page Básica
         price: 'Desde $600,000 a $1,000,000 COP'
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+
+          emprendedores o pequeñas empresas que buscan una página promocional
+          simple y efectiva.
+
         features:
           - Feature one
           - Feature two
