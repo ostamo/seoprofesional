@@ -13,7 +13,7 @@ featuredImage:
     self:
       borderRadius: x-large
   type: ImageBlock
-  url: /images/plomeriadomicilio.jpg
+  url: /images/construccion_n.jpg
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
