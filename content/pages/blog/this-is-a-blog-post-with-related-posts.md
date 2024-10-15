@@ -36,7 +36,7 @@ author: content/data/person1.json
 En **Plomería Domicilio**, hemos logrado resultados excepcionales en muy poco tiempo, especialmente en **Bing**, donde nos posicionamos consistentemente en el **top 3** para la mayoría de las palabras clave relacionadas con plomería. Gracias a una estrategia de SEO efectiva, combinada con un diseño web optimizado, nos hemos convertido en una referencia principal en la búsqueda de servicios de plomería en Bogotá.
 
 > Jesús plomeros encargado Plomería Domicilio
-> **Teléfono: 323 601 1718**
+> **Teléfono: 310 228 0039**
 >
-> ****<https://plomeriadomicilio.com/>
+> \*\*\*\*<https://plomeriadomicilio.com/>
 
