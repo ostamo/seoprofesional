@@ -89,9 +89,7 @@ type: PostLayout
 ---
 > En **Plomeros-Bogotá.co**, hemos logrado resultados excepcionales en muy poco tiempo, especialmente en **Bing**, donde nos posicionamos consistentemente en el **top 3** para la mayoría de las palabras clave relacionadas con plomería. Gracias a una estrategia de SEO efectiva, combinada con un diseño web optimizado, nos hemos convertido en una referencia principal en la búsqueda de servicios de plomería en Bogotá.
 
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
 
 > Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 >
