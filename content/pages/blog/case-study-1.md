@@ -1,5 +1,5 @@
 ---
-title: '1 Caso de Éxito: Plomeros Destape'
+title: Plomeros Destape
 slug: case-study-1
 date: '2024-10-12'
 excerpt: >-

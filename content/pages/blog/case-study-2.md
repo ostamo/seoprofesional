@@ -1,5 +1,5 @@
 ---
-title: '2 Caso de Éxito: PlomeríaBogotá24hr'
+title: PlomeríaBogotá24hr
 slug: case-study-2
 date: '2024-10-12'
 excerpt: >-
