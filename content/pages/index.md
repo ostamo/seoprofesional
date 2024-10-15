@@ -144,6 +144,8 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            margin:
+              - mr-9
         type: FeaturedItem
       - title: Gestión de Redes Sociales
         subtitle: Presencia Digital en Redes Sociales
