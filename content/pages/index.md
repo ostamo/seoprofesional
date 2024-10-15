@@ -142,7 +142,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: justify
             justifyContent: center
         type: FeaturedItem
       - title: Gestión de Redes Sociales
