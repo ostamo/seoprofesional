@@ -139,7 +139,7 @@ sections:
               - pt-8
               - pl-8
               - pb-8
-              - pr-12
+              - pr-16
             borderRadius: x-large
             flexDirection: row
             textAlign: left
