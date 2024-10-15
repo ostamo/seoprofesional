@@ -1,7 +1,7 @@
 ---
 title: Rodearte de la Gente Adecuada para Mejorar tu Presencia Digital
 slug: surround-yourself-with-right-people
-date: '2024-10-26'
+date: '2024-10-14'
 excerpt: >-
   Para tener una presencia digital sólida y competitiva, necesitas rodearte de
   un equipo profesional que comprenda las diferentes áreas del marketing y la
