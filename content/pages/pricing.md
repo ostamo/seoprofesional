@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Nuestra Prioridad es Lograr un Acuerdo Justo
     plans:
-      - title: SEO-posicionamiento
+      - title: SEO-Mantenimiento
         price: DISEÑO DE PAGINAS WEB
         details: >-
           Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
