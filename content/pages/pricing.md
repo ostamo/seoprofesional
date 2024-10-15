@@ -16,8 +16,18 @@ sections:
         details: >-
           Soporte y capacitación; Cuentas de correo corporativo; Botón WhatsApp;
           Incluye Hosting y Dominio
-        description: |+
-          # Desde $600.000 a $6.500.000
+        description: >+
+          Ofrecemos soluciones integrales de **diseño de páginas web**, creando
+          sitios atractivos, funcionales y optimizados para brindar una
+          excelente experiencia de usuario. Nos especializamos en **SEO
+          (Posicionamiento en motores de búsqueda)**, asegurando que tu página
+          esté visible en los primeros resultados de Google y Bing. También
+          gestionamos **campañas SEM (Publicidad en buscadores)**, maximizando
+          el alcance de tus anuncios pagados, y manejamos **estrategias en redes
+          sociales**, aumentando tu presencia y conexión con la audiencia en
+          plataformas como Facebook, Instagram y YouTube.
+
+
 
         features:
           - >-
