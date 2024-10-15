@@ -1,7 +1,7 @@
 ---
 title: Plomeros-Bogotá.co
 slug: case-study-3
-date: '2024-10-18'
+date: '2024-10-14'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
