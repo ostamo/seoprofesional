@@ -29,9 +29,8 @@ bottomSections:
       - title: Plomeros Bogotá
         tagline: Plomería y Acabados
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Estamos dedicados a brindar soluciones expertas referente a la
+          plomería, remodelaciones, ornamentación en Bogotá.
         image:
           url: /images/logo-plomeros-bogota-co.PNG
           altText: Company logo
