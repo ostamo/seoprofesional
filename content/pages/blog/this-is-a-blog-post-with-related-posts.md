@@ -6,7 +6,7 @@ excerpt: Prestamos servicios de plomería por toda Bogotá con una amplia experi
 featuredImage:
   type: ImageBlock
   url: /images/plomeriadomicilio.jpg
-  altText: Thumbnail
+  altText: Plomería Domicilio
   elementId: ''
   styles:
     self:
