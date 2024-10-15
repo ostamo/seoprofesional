@@ -58,9 +58,9 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
+            "label": "322 957 6512",
+            "altText": "Contacto",
+            "url": "tel:322-957-6512",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

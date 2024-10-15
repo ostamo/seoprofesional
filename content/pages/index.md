@@ -139,11 +139,13 @@ sections:
               - pt-8
               - pl-8
               - pb-8
-              - pr-8
+              - pr-12
             borderRadius: x-large
             flexDirection: row
             textAlign: left
             justifyContent: center
+            margin:
+              - mr-0
         type: FeaturedItem
       - title: Gestión de Redes Sociales
         subtitle: Presencia Digital en Redes Sociales
@@ -262,6 +264,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Casos de Éxito
   - type: GenericSection
     title:
       type: TitleBlock
