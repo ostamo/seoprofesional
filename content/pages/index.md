@@ -262,6 +262,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Casos de Éxito
   - type: GenericSection
     title:
       type: TitleBlock
