@@ -2,9 +2,7 @@
 type: PostLayout
 title: Plomería Domicilio
 date: '2024-10-02'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Prestamos servicios de plomería por toda Bogotá con una amplia experiencia
 featuredImage:
   type: ImageBlock
   url: /images/plomeriadomicilio.jpg
