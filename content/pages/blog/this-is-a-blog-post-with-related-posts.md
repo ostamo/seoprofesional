@@ -31,6 +31,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+author: content/data/person1.json
 ---
 En **Plomeros-Bogotá.co**, hemos logrado resultados excepcionales en muy poco tiempo, especialmente en **Bing**, donde nos posicionamos consistentemente en el **top 3** para la mayoría de las palabras clave relacionadas con plomería. Gracias a una estrategia de SEO efectiva, combinada con un diseño web optimizado, nos hemos convertido en una referencia principal en la búsqueda de servicios de plomería en Bogotá.
 
