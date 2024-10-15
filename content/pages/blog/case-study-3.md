@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  altText: Case study 3
+  altText: Plomeros Bogotá
   styles:
     self:
       borderRadius: x-large
