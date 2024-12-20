@@ -190,7 +190,7 @@ sections:
     actions:
       - label: Contáctanos
         altText: ''
-        url: 'tel:322-957-6512'
+        url: 'tel:312-385-0858'
         showIcon: false
         icon: arrowRight
         iconPosition: right
