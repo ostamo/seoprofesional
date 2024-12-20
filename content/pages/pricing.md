@@ -158,7 +158,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
-            altText: 322-957-6512
+            altText: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
