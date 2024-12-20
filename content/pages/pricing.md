@@ -76,7 +76,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contáctanos
-            url: 'tel:322-957-6512'
+            url: 'tel:312-385-0858'
             icon: arrowRight
             iconPosition: right
             style: secondary
