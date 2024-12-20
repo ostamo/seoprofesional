@@ -24,12 +24,12 @@ sections:
 
     actions:
       - label: Contáctanos
-        url: 'tel:322-957-6512'
+        url: 'tel:312-385-0858'
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
-        altText: 322 957 6512
+        altText: ''
     colors: bg-neutral-fg-dark
     styles:
       self:
